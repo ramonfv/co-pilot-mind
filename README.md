@@ -67,7 +67,7 @@ MIT
 
 ## ✉️ Contato
 
-Caso tenha interesse acadêmico ou técnico, entre em contato via email: [ramonviana@ita.br ou carolina.lima.101646@ga.ita.br].
+Caso tenha interesse acadêmico ou técnico, entre em contato via email: [ramonviana@ita.br ou carolinacrl@ita.br].
 
 
 
