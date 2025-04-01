@@ -43,6 +43,20 @@ co_pilot_mind/
 
 ---
 
+
+## ⚙️ Ambiente de Desenvolvimento (com Poetry)
+
+Este projeto utiliza [Poetry](https://python-poetry.org/) como gerenciador de dependências e ambientes virtuais.
+
+### Pré-requisitos
+
+- Python 3.9 ou 3.10 instalado
+- Poetry instalado:
+  ```bash
+  pip install poetry
+
+---
+
 ## 📌 Objetivos Futuros
 
 - [ ] NLP em tempo real com transformers
@@ -68,6 +82,3 @@ MIT
 ## ✉️ Contato
 
 Caso tenha interesse acadêmico ou técnico, entre em contato via email: [ramonviana@ita.br ou carolina.lima.101646@ga.ita.br].
-
-
-
