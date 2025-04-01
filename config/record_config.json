@@ -1,0 +1,8 @@
+{
+    "sample_rate": 16000,
+    "channels": 1,
+    "frame_duration": 30,
+    "vad_mode": 2,
+    "max_silence_frames": 30
+  }
+  
