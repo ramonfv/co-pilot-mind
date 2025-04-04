@@ -1,0 +1,1252 @@
+[] Kind: captions
+[] Language: pt
+[00:00:00,080] Fala<00:00:00.359><c> galera</c><00:00:00.799><c> eu</c><00:00:01.000><c> tô</c><00:00:01.199><c> aqui</c><00:00:01.319><c> na</c><00:00:01.640><c> Embraer</c><00:00:02.480><c> no</c>
+[00:00:02,669] Fala galera eu tô aqui na Embraer no
+[00:00:02,679] Fala galera eu tô aqui na Embraer no
+[00:00:02,679] centro<00:00:03.040><c> de</c><00:00:03.159><c> serviços</c><00:00:03.840><c> em</c><00:00:04.080><c> Sorocaba</c><00:00:04.920><c> e</c><00:00:05.160><c> nós</c>
+[00:00:05,309] centro de serviços em Sorocaba e nós
+[00:00:05,319] centro de serviços em Sorocaba e nós
+[00:00:05,319] vamos<00:00:05.560><c> fazer</c><00:00:05.759><c> um</c><00:00:05.920><c> voo</c><00:00:06.200><c> de</c><00:00:06.399><c> reposicionamento</c>
+[00:00:07,150] vamos fazer um voo de reposicionamento
+[00:00:07,160] vamos fazer um voo de reposicionamento
+[00:00:07,160] da<00:00:07.439><c> aeronave</c><00:00:08.040><c> viemos</c><00:00:08.519><c> aqui</c><00:00:08.639><c> efetuar</c><00:00:09.080><c> alguns</c>
+[00:00:09,310] da aeronave viemos aqui efetuar alguns
+[00:00:09,320] da aeronave viemos aqui efetuar alguns
+[00:00:09,320] serviços<00:00:09.639><c> no</c><00:00:09.840><c> felon</c><00:00:10.280><c> 300</c><00:00:10.960><c> e</c><00:00:11.120><c> nós</c><00:00:11.280><c> vamos</c><00:00:11.440><c> tirar</c>
+[00:00:11,669] serviços no felon 300 e nós vamos tirar
+[00:00:11,679] serviços no felon 300 e nós vamos tirar
+[00:00:11,679] agora<00:00:11.880><c> a</c><00:00:12.080><c> aeronave</c><00:00:12.559><c> de</c><00:00:12.799><c> Sorocaba</c><00:00:13.799><c> e</c><00:00:14.000><c> vamos</c>
+[00:00:14,230] agora a aeronave de Sorocaba e vamos
+[00:00:14,240] agora a aeronave de Sorocaba e vamos
+[00:00:14,240] levar<00:00:14.559><c> para</c><00:00:14.839><c> Guarulhos</c><00:00:15.519><c> aonde</c><00:00:16.119><c> iremos</c>
+[00:00:16,830] levar para Guarulhos aonde iremos
+[00:00:16,840] levar para Guarulhos aonde iremos
+[00:00:16,840] embarcar<00:00:17.320><c> os</c><00:00:17.520><c> nossos</c><00:00:17.960><c> passageiros</c><00:00:18.680><c> então</c>
+[00:00:18,830] embarcar os nossos passageiros então
+[00:00:18,840] embarcar os nossos passageiros então
+[00:00:18,840] vocês<00:00:19.080><c> vão</c><00:00:19.279><c> acompanhar</c><00:00:19.760><c> esse</c><00:00:19.960><c> voo</c><00:00:20.359><c> que</c><00:00:20.480><c> é</c><00:00:20.600><c> um</c>
+[00:00:20,710] vocês vão acompanhar esse voo que é um
+[00:00:20,720] vocês vão acompanhar esse voo que é um
+[00:00:20,720] voo<00:00:20.960><c> bem</c><00:00:21.119><c> interessante</c><00:00:21.880><c> é</c><00:00:22.080><c> um</c><00:00:22.199><c> voo</c>
+[00:00:22,470] voo bem interessante é um voo
+[00:00:22,480] voo bem interessante é um voo
+[00:00:22,480] extremamente<00:00:23.119><c> curto</c><00:00:23.640><c> mas</c><00:00:24.160><c> devido</c><00:00:24.480><c> ao</c><00:00:24.640><c> tráfego</c>
+[00:00:25,070] extremamente curto mas devido ao tráfego
+[00:00:25,080] extremamente curto mas devido ao tráfego
+[00:00:25,080] aéreo<00:00:25.400><c> de</c><00:00:25.439><c> todo</c><00:00:25.640><c> o</c><00:00:25.720><c> terminal</c><00:00:26.080><c> de</c><00:00:26.160><c> São</c><00:00:26.279><c> Paulo</c>
+[00:00:26,750] aéreo de todo o terminal de São Paulo
+[00:00:26,760] aéreo de todo o terminal de São Paulo
+[00:00:26,760] ele<00:00:27.160><c> pode</c><00:00:27.519><c> se</c><00:00:27.640><c> tornar</c><00:00:27.920><c> um</c><00:00:28.080><c> voo</c><00:00:28.640><c> mais</c><00:00:28.880><c> longo</c>
+[00:00:29,189] ele pode se tornar um voo mais longo
+[00:00:29,199] ele pode se tornar um voo mais longo
+[00:00:29,199] então<00:00:29.439><c> é</c><00:00:29.599><c> um</c><00:00:29.720><c> voo</c><00:00:30.039><c> muito</c><00:00:30.240><c> interessante</c><00:00:30.679><c> para</c>
+[00:00:30,870] então é um voo muito interessante para
+[00:00:30,880] então é um voo muito interessante para
+[00:00:30,880] vocês<00:00:31.160><c> acompanharem</c><00:00:31.720><c> aqui</c><00:00:31.840><c> no</c><00:00:31.960><c> canal</c><00:00:32.599><c> esse</c>
+[00:00:32,990] vocês acompanharem aqui no canal esse
+[00:00:33,000] vocês acompanharem aqui no canal esse
+[00:00:33,000] reposicionamento<00:00:33.719><c> da</c><00:00:33.920><c> aeronave</c><00:00:34.680><c> tirando</c><00:00:35.079><c> ela</c>
+[00:00:35,270] reposicionamento da aeronave tirando ela
+[00:00:35,280] reposicionamento da aeronave tirando ela
+[00:00:35,280] de<00:00:35.480><c> Sorocaba</c><00:00:36.079><c> aqui</c><00:00:36.160><c> da</c><00:00:36.520><c> Embraer</c><00:00:37.280><c> e</c><00:00:37.440><c> levando</c>
+[00:00:38,069] de Sorocaba aqui da Embraer e levando
+[00:00:38,079] de Sorocaba aqui da Embraer e levando
+[00:00:38,079] para<00:00:38.200><c> o</c><00:00:38.320><c> aeroporto</c><00:00:38.800><c> internacional</c><00:00:39.520><c> de</c>
+[00:00:39,709] para o aeroporto internacional de
+[00:00:39,719] para o aeroporto internacional de
+[00:00:39,719] Guarulhos<00:00:40.320><c> então</c><00:00:40.520><c> sejam</c><00:00:40.879><c> bem-vindos</c><00:00:41.320><c> a</c><00:00:41.520><c> bordo</c>
+[00:00:41,830] Guarulhos então sejam bem-vindos a bordo
+[00:00:41,840] Guarulhos então sejam bem-vindos a bordo
+[00:00:41,840] do<00:00:41.960><c> canal</c><00:00:42.320><c> Marcelo</c><00:00:42.800><c> Trentini</c><00:00:43.480><c> e</c><00:00:43.600><c> acompanhe</c>
+[00:00:44,110] do canal Marcelo Trentini e acompanhe
+[00:00:44,120] do canal Marcelo Trentini e acompanhe
+[00:00:44,120] mais<00:00:44.239><c> este</c><00:00:44.480><c> voo</c><00:00:44.760><c> conosco</c>
+[00:00:46,110] mais este voo conosco
+[00:00:46,120] mais este voo conosco
+[00:00:46,120] [Música]
+[00:01:00,120] k
+[00:01:03,290] [Música]
+[00:01:15,050] [Música]
+[00:01:34,410] [Música]
+[00:01:37,920] k
+[00:01:42,320] [Música]
+[00:02:00,000] k
+[00:02:01,650] k
+[00:02:01,660] k
+[00:02:01,660] [Música]
+[00:02:13,660] [Música]
+[00:02:30,480] então<00:02:30.840><c> estamos</c><00:02:31.080><c> aqui</c><00:02:31.280><c> no</c><00:02:31.480><c> aeroporto</c><00:02:31.920><c> de</c>
+[00:02:32,070] então estamos aqui no aeroporto de
+[00:02:32,080] então estamos aqui no aeroporto de
+[00:02:32,080] Sorocaba<00:02:32.560><c> a</c><00:02:32.920><c> emb</c><00:02:33.519><c> tem</c><00:02:33.760><c> uma</c><00:02:33.959><c> estrutura</c><00:02:34.760><c> muito</c>
+[00:02:35,030] Sorocaba a emb tem uma estrutura muito
+[00:02:35,040] Sorocaba a emb tem uma estrutura muito
+[00:02:35,040] grande
+[00:02:36,990] grande
+[00:02:37,000] grande
+[00:02:37,000] aqui<00:02:38.000><c> hangares</c><00:02:39.200><c> enormes</c><00:02:40.200><c> tem</c><00:02:40.319><c> aqui</c><00:02:40.440><c> em</c>
+[00:02:41,190] aqui hangares enormes tem aqui em
+[00:02:41,200] aqui hangares enormes tem aqui em
+[00:02:41,200] Sorocaba<00:02:42.200><c> Aqui</c><00:02:42.599><c> nós</c>
+[00:02:44,229] Sorocaba Aqui nós
+[00:02:44,239] Sorocaba Aqui nós
+[00:02:44,239] temos<00:02:45.239><c> um</c>
+[00:02:48,159] Legacy<00:02:49.159><c> e</c><00:02:49.440><c> aqui</c><00:02:49.640><c> o</c><00:02:49.800><c> nosso</c><00:02:50.080><c> phon</c>
+[00:02:51,589] Legacy e aqui o nosso phon
+[00:02:51,599] Legacy e aqui o nosso phon
+[00:02:51,599] 300<00:02:52.599><c> agora</c><00:02:52.800><c> a</c><00:02:52.879><c> gente</c><00:02:53.040><c> vai</c><00:02:53.200><c> preparar</c><00:02:53.879><c> o</c>
+[00:02:54,030] 300 agora a gente vai preparar o
+[00:02:54,040] 300 agora a gente vai preparar o
+[00:02:54,040] interior<00:02:54.319><c> da</c><00:02:54.480><c> aeronave</c><00:02:55.480><c> para</c><00:02:55.879><c> esse</c><00:02:56.239><c> voo</c><00:02:56.760><c> de</c>
+[00:02:57,229] interior da aeronave para esse voo de
+[00:02:57,239] interior da aeronave para esse voo de
+[00:02:57,239] Sorocaba<00:02:57.840><c> para</c><00:02:58.000><c> Guarulhos</c>
+[00:03:02,280] [Música]
+[00:03:09,760] aqui<00:03:10.239><c> temos</c><00:03:10.599><c> Gustavo</c><00:03:11.000><c> Carleto</c><00:03:11.799><c> Opa</c><00:03:12.200><c> bom</c><00:03:12.400><c> dia</c>
+[00:03:13,390] aqui temos Gustavo Carleto Opa bom dia
+[00:03:13,400] aqui temos Gustavo Carleto Opa bom dia
+[00:03:13,400] tud<00:03:13.599><c> bem</c><00:03:13.720><c> pessoal</c><00:03:14.040><c> gí</c><00:03:15.040><c> fazendo</c><00:03:15.440><c> Safety</c>
+[00:03:15,789] tud bem pessoal gí fazendo Safety
+[00:03:15,799] tud bem pessoal gí fazendo Safety
+[00:03:15,799] inspection<00:03:16.159><c> Gustavo</c><00:03:16.720><c> isso</c><00:03:16.920><c> aí</c><00:03:17.080><c> a</c><00:03:17.319><c> gente</c>
+[00:03:18,229] inspection Gustavo isso aí a gente
+[00:03:18,239] inspection Gustavo isso aí a gente
+[00:03:18,239] realiza<00:03:18.720><c> esse</c><00:03:18.920><c> check</c><00:03:19.400><c> aqui</c><00:03:19.519><c> o</c><00:03:19.640><c> cockpit</c><00:03:20.159><c> Safety</c>
+[00:03:20,789] realiza esse check aqui o cockpit Safety
+[00:03:20,799] realiza esse check aqui o cockpit Safety
+[00:03:20,799] inspection<00:03:21.799><c> antes</c><00:03:22.120><c> do</c><00:03:22.440><c> do</c><00:03:22.640><c> da</c><00:03:22.920><c> gente</c><00:03:23.319><c> ligar</c><00:03:23.640><c> o</c>
+[00:03:23,830] inspection antes do do da gente ligar o
+[00:03:23,840] inspection antes do do da gente ligar o
+[00:03:23,840] avião<00:03:24.080><c> né</c><00:03:24.239><c> pra</c><00:03:24.480><c> gente</c><00:03:24.640><c> conferir</c><00:03:24.920><c> que</c><00:03:25.000><c> todos</c><00:03:25.239><c> os</c>
+[00:03:25,350] avião né pra gente conferir que todos os
+[00:03:25,360] avião né pra gente conferir que todos os
+[00:03:25,360] switchs<00:03:25.760><c> estão</c><00:03:25.959><c> nas</c><00:03:26.120><c> devidas</c><00:03:26.519><c> posições</c><00:03:27.480><c> isso</c>
+[00:03:27,750] switchs estão nas devidas posições isso
+[00:03:27,760] switchs estão nas devidas posições isso
+[00:03:27,760] aí<00:03:27.959><c> exatamente</c><00:03:28.519><c> a</c><00:03:28.640><c> aeronave</c><00:03:29.120><c> passou</c><00:03:29.360><c> por</c>
+[00:03:30,149] aí exatamente a aeronave passou por
+[00:03:30,159] aí exatamente a aeronave passou por
+[00:03:30,159] alguns<00:03:30.560><c> serviços</c><00:03:31.159><c> aqui</c><00:03:31.560><c> a</c><00:03:31.799><c> gente</c><00:03:32.360><c> fez</c><00:03:32.599><c> um</c>
+[00:03:32,789] alguns serviços aqui a gente fez um
+[00:03:32,799] alguns serviços aqui a gente fez um
+[00:03:32,799] serviço<00:03:33.080><c> no</c><00:03:33.360><c> sistema</c><00:03:33.680><c> de</c><00:03:33.799><c> ar</c><00:03:34.000><c> condicionado</c><00:03:34.439><c> eh</c>
+[00:03:35,429] serviço no sistema de ar condicionado eh
+[00:03:35,439] serviço no sistema de ar condicionado eh
+[00:03:35,439] e<00:03:35.799><c> outros</c><00:03:36.400><c> serviços</c><00:03:36.879><c> também</c><00:03:37.760><c> então</c><00:03:38.040><c> é</c><00:03:38.120><c> muito</c>
+[00:03:38,309] e outros serviços também então é muito
+[00:03:38,319] e outros serviços também então é muito
+[00:03:38,319] importante<00:03:39.280><c> saindo</c><00:03:39.680><c> principalmente</c><00:03:40.319><c> da</c><00:03:40.480><c> da</c>
+[00:03:40,589] importante saindo principalmente da da
+[00:03:40,599] importante saindo principalmente da da
+[00:03:40,599] oficina<00:03:40.959><c> que</c><00:03:41.040><c> seja</c><00:03:41.280><c> feito</c><00:03:41.519><c> com</c><00:03:41.799><c> muito</c>
+[00:03:42,110] oficina que seja feito com muito
+[00:03:42,120] oficina que seja feito com muito
+[00:03:42,120] critério<00:03:42.720><c> esse</c><00:03:43.120><c> cockpit</c><00:03:43.640><c> Safety</c><00:03:44.080><c> inspection</c>
+[00:03:44,869] critério esse cockpit Safety inspection
+[00:03:44,879] critério esse cockpit Safety inspection
+[00:03:44,879] pra<00:03:45.480><c> gente</c><00:03:45.599><c> verificar</c><00:03:46.159><c> se</c><00:03:46.319><c> realmente</c><00:03:47.000><c> tudo</c>
+[00:03:47,309] pra gente verificar se realmente tudo
+[00:03:47,319] pra gente verificar se realmente tudo
+[00:03:47,319] está<00:03:47.879><c> em</c><00:03:48.280><c> conformidade</c><00:03:48.799><c> os</c><00:03:49.360><c> switchs</c><00:03:49.840><c> todos</c><00:03:50.120><c> na</c>
+[00:03:50,350] está em conformidade os switchs todos na
+[00:03:50,360] está em conformidade os switchs todos na
+[00:03:50,360] posição<00:03:50.680><c> que</c><00:03:50.799><c> eles</c><00:03:51.000><c> devem</c><00:03:51.319><c> estar</c><00:03:51.879><c> a</c><00:03:52.040><c> gente</c>
+[00:03:52,509] posição que eles devem estar a gente
+[00:03:52,519] posição que eles devem estar a gente
+[00:03:52,519] segue<00:03:52.840><c> esse</c><00:03:53.360><c> checklist</c><00:03:54.360><c> chamado</c><00:03:54.760><c> cockpit</c>
+[00:03:55,350] segue esse checklist chamado cockpit
+[00:03:55,360] segue esse checklist chamado cockpit
+[00:03:55,360] Safety<00:03:56.040><c> inspection</c><00:03:57.040><c> E</c><00:03:57.319><c> aí</c><00:03:57.640><c> sim</c><00:03:58.079><c> a</c><00:03:58.200><c> gente</c>
+[00:03:58,429] Safety inspection E aí sim a gente
+[00:03:58,439] Safety inspection E aí sim a gente
+[00:03:58,439] prossegue<00:03:58.879><c> com</c><00:03:59.040><c> os</c><00:03:59.200><c> demais</c><00:04:00.000><c> cheques</c><00:04:00.400><c> também</c>
+[00:04:00,550] prossegue com os demais cheques também
+[00:04:00,560] prossegue com os demais cheques também
+[00:04:00,560] pro<00:04:00.760><c> voo</c><00:04:01.519><c> prepara</c><00:04:02.439><c> o</c><00:04:02.760><c> interior</c><00:04:03.239><c> todo</c><00:04:03.439><c> da</c>
+[00:04:03,869] pro voo prepara o interior todo da
+[00:04:03,879] pro voo prepara o interior todo da
+[00:04:03,879] aeronave<00:04:04.799><c> então</c><00:04:05.239><c> é</c><00:04:05.439><c> uma</c><00:04:05.560><c> Essa</c><00:04:06.280><c> é</c><00:04:06.360><c> a</c><00:04:06.439><c> sequência</c>
+[00:04:06,910] aeronave então é uma Essa é a sequência
+[00:04:06,920] aeronave então é uma Essa é a sequência
+[00:04:06,920] hoje<00:04:07.319><c> não</c><00:04:07.439><c> vou</c><00:04:07.560><c> ficar</c><00:04:07.840><c> fazendo</c><00:04:08.120><c> muito</c><00:04:08.319><c> no</c>
+[00:04:08,750] hoje não vou ficar fazendo muito no
+[00:04:08,760] hoje não vou ficar fazendo muito no
+[00:04:08,760] estilo<00:04:09.079><c> vlog</c><00:04:09.720><c> que</c><00:04:09.879><c> é</c><00:04:10.000><c> aquele</c><00:04:10.239><c> que</c><00:04:10.319><c> eu</c><00:04:10.400><c> sei</c><00:04:10.519><c> que</c>
+[00:04:10,589] estilo vlog que é aquele que eu sei que
+[00:04:10,599] estilo vlog que é aquele que eu sei que
+[00:04:10,599] vocês<00:04:10.840><c> gostam</c><00:04:11.120><c> saindo</c><00:04:11.400><c> do</c><00:04:11.519><c> hotel</c><00:04:11.720><c> é</c><00:04:12.519><c> com</c><00:04:12.720><c> toda</c>
+[00:04:12,949] vocês gostam saindo do hotel é com toda
+[00:04:12,959] vocês gostam saindo do hotel é com toda
+[00:04:12,959] a<00:04:13.079><c> preparação</c><00:04:13.439><c> do</c><00:04:13.640><c> voo</c><00:04:13.840><c> ão</c><00:04:14.599><c> um</c><00:04:14.680><c> voo</c><00:04:14.879><c> um</c>
+[00:04:14,910] a preparação do voo ão um voo um
+[00:04:14,920] a preparação do voo ão um voo um
+[00:04:14,920] pouquinho<00:04:15.239><c> mais</c><00:04:15.480><c> corrido</c><00:04:16.000><c> aí</c><00:04:16.359><c> nosso</c><00:04:17.359><c> mas</c><00:04:17.560><c> eu</c>
+[00:04:17,629] pouquinho mais corrido aí nosso mas eu
+[00:04:17,639] pouquinho mais corrido aí nosso mas eu
+[00:04:17,639] vou<00:04:17.840><c> mostrar</c><00:04:18.160><c> então</c><00:04:18.720><c> essa</c><00:04:19.199><c> preparação</c>
+[00:04:19,749] vou mostrar então essa preparação
+[00:04:19,759] vou mostrar então essa preparação
+[00:04:19,759] rapidamente<00:04:20.759><c> e</c><00:04:21.000><c> depois</c><00:04:21.280><c> o</c><00:04:21.440><c> voo</c><00:04:21.759><c> inteiro</c>
+[00:04:22,069] rapidamente e depois o voo inteiro
+[00:04:22,079] rapidamente e depois o voo inteiro
+[00:04:22,079] também<00:04:22.280><c> vou</c><00:04:22.759><c> tá</c><00:04:22.919><c> trazendo</c><00:04:23.360><c> as</c><00:04:23.520><c> imagens</c><00:04:23.919><c> para</c>
+[00:04:24,030] também vou tá trazendo as imagens para
+[00:04:24,040] também vou tá trazendo as imagens para
+[00:04:24,040] vocês<00:04:25.040><c> aqui</c><00:04:25.320><c> desse</c><00:04:25.840><c> deslocamento</c><00:04:26.360><c> de</c>
+[00:04:26,550] vocês aqui desse deslocamento de
+[00:04:26,560] vocês aqui desse deslocamento de
+[00:04:26,560] Sorocaba<00:04:27.040><c> para</c><00:04:27.199><c> Guarulhos</c><00:04:28.080><c> da</c><00:04:28.320><c> cabine</c><00:04:28.680><c> com</c><00:04:28.759><c> a</c>
+[00:04:28,909] Sorocaba para Guarulhos da cabine com a
+[00:04:28,919] Sorocaba para Guarulhos da cabine com a
+[00:04:28,919] comunicação<00:04:29.320><c> aí</c><00:04:29.520><c> tamb</c><00:04:29.720><c> também</c><00:04:29.919><c> com</c><00:04:30.000><c> os</c><00:04:30.120><c> órgãos</c>
+[00:04:30,550] comunicação aí tamb também com os órgãos
+[00:04:30,560] comunicação aí tamb também com os órgãos
+[00:04:30,560] de<00:04:30.680><c> controle</c><00:04:31.039><c> e</c><00:04:31.199><c> os</c><00:04:31.360><c> demais</c><00:04:31.600><c> procedimentos</c>
+[00:04:32,110] de controle e os demais procedimentos
+[00:04:32,120] de controle e os demais procedimentos
+[00:04:32,120] que<00:04:32.199><c> a</c><00:04:32.240><c> gente</c><00:04:32.400><c> executa</c><00:04:32.759><c> a</c><00:04:32.880><c> Bordo</c><00:04:33.320><c> beleza</c><00:04:34.240><c> vamos</c>
+[00:04:34,350] que a gente executa a Bordo beleza vamos
+[00:04:34,360] que a gente executa a Bordo beleza vamos
+[00:04:34,360] lá<00:04:34.479><c> então</c><00:04:34.680><c> Gustavo</c><00:04:35.560><c> seu</c><00:04:35.880><c> café</c><00:04:36.120><c> da</c><00:04:36.199><c> manhã</c><00:04:37.120><c> Muito</c>
+[00:04:37,310] lá então Gustavo seu café da manhã Muito
+[00:04:37,320] lá então Gustavo seu café da manhã Muito
+[00:04:37,320] obrigado<00:04:38.759><c> comissaria</c>
+[00:04:42,280] Cat<00:04:43.280><c> legal</c><00:04:43.560><c> essa</c><00:04:43.840><c> sala</c><00:04:44.120><c> aqui</c><00:04:44.280><c> de</c><00:04:45.039><c> de</c><00:04:45.240><c> descanso</c>
+[00:04:45,830] Cat legal essa sala aqui de de descanso
+[00:04:45,840] Cat legal essa sala aqui de de descanso
+[00:04:45,840] aqui<00:04:45.960><c> de</c><00:04:46.120><c> tripulantes</c>
+[00:04:47,270] aqui de tripulantes
+[00:04:47,280] aqui de tripulantes
+[00:04:47,280] ó<00:04:48.280><c> muito</c>
+[00:04:49,470] ó muito
+[00:04:49,480] ó muito
+[00:04:49,480] [Música]
+[00:04:53,029] [Música]
+[00:04:53,039] [Música]
+[00:04:53,039] legal<00:04:54.039><c> só</c><00:04:54.199><c> faltou</c><00:04:54.560><c> est</c><00:04:54.720><c> passando</c><00:04:55.160><c> canal</c>
+[00:04:55,350] legal só faltou est passando canal
+[00:04:55,360] legal só faltou est passando canal
+[00:04:55,360] Marcelo<00:04:55.639><c> Trentini</c><00:04:56.120><c> aqui</c><00:04:56.280><c> né</c>
+[00:04:59,160] Marcelo Trentini aqui né
+[00:04:59,170] Marcelo Trentini aqui né
+[00:04:59,170] [Música]
+[00:05:14,520] bom<00:05:14.800><c> pessoal</c><00:05:15.039><c> a</c><00:05:15.120><c> gente</c><00:05:15.240><c> vai</c><00:05:15.600><c> continuar</c>
+[00:05:15,830] bom pessoal a gente vai continuar
+[00:05:15,840] bom pessoal a gente vai continuar
+[00:05:15,840] preparando<00:05:16.240><c> aqui</c><00:05:16.680><c> a</c><00:05:17.039><c> aeronave</c><00:05:18.160><c> e</c><00:05:19.160><c> vou</c><00:05:19.400><c> vir</c><00:05:19.680><c> com</c>
+[00:05:19,790] preparando aqui a aeronave e vou vir com
+[00:05:19,800] preparando aqui a aeronave e vou vir com
+[00:05:19,800] as<00:05:19.960><c> imagens</c><00:05:20.600><c> diretas</c><00:05:21.000><c> do</c><00:05:21.120><c> voo</c><00:05:21.440><c> para</c><00:05:21.560><c> vocês</c><00:05:21.840><c> que</c>
+[00:05:21,990] as imagens diretas do voo para vocês que
+[00:05:22,000] as imagens diretas do voo para vocês que
+[00:05:22,000] agora<00:05:22.280><c> vou</c><00:05:22.440><c> fixar</c><00:05:22.919><c> a</c><00:05:23.160><c> câmera</c><00:05:23.520><c> aqui</c><00:05:23.759><c> na</c><00:05:23.880><c> cabeça</c>
+[00:05:25,430] agora vou fixar a câmera aqui na cabeça
+[00:05:25,440] agora vou fixar a câmera aqui na cabeça
+[00:05:25,440] então<00:05:26.440><c> daqui</c><00:05:26.720><c> a</c><00:05:26.840><c> pouco</c><00:05:27.039><c> a</c><00:05:27.120><c> gente</c><00:05:27.240><c> volta</c><00:05:27.479><c> com</c><00:05:27.600><c> a</c>
+[00:05:27,670] então daqui a pouco a gente volta com a
+[00:05:27,680] então daqui a pouco a gente volta com a
+[00:05:27,680] decolagem<00:05:28.080><c> aqui</c><00:05:28.240><c> de</c><00:05:28.319><c> Sorocaba</c><00:05:28.800><c> e</c><00:05:28.960><c> o</c><00:05:29.120><c> preg</c>
+[00:05:31,390] decolagem aqui de Sorocaba e o preg
+[00:05:31,400] decolagem aqui de Sorocaba e o preg
+[00:05:31,400] para<00:05:31.880><c> assamento</c><00:05:32.720><c> aqui</c><00:05:33.720><c> portas</c>
+[00:05:35,150] para assamento aqui portas
+[00:05:35,160] para assamento aqui portas
+[00:05:35,160] fechadas
+[00:05:37,070] fechadas
+[00:05:37,080] fechadas
+[00:05:37,080] elétrico<00:05:38.080><c> no</c><00:05:38.639><c> 2</c>
+[00:05:49,120] cronômetro<00:05:50.120><c> Pressure</c>
+[00:06:07,400] partida<00:06:07.800><c> no</c><00:06:08.160><c> dois</c><00:06:08.440><c> com</c><00:06:08.840><c> sucesso</c><00:06:09.479><c> partida</c><00:06:09.960><c> no</c>
+[00:06:18,240] um
+[00:06:20,990] um
+[00:06:21,000] um
+[00:06:21,000] m2<00:06:22.080><c> Oil</c>
+[00:06:23,870] m2 Oil
+[00:06:23,880] m2 Oil
+[00:06:23,880] Pressure<00:06:24.880><c> n</c>
+[00:06:42,919] Ok
+[00:06:45,469] Ok
+[00:06:45,479] Ok
+[00:06:45,479] ti<00:06:46.479><c> After</c>
+[00:06:48,309] ti After
+[00:06:48,319] ti After
+[00:06:48,319] check<00:06:49.319><c> aguardando</c><00:06:49.759><c> a</c><00:06:49.880><c> desconexão</c>
+[00:07:02,479] Ok
+[00:07:07,919] desconectou
+[00:07:09,670] desconectou
+[00:07:09,680] desconectou
+[00:07:09,680] barramentos<00:07:10.680><c> baterias</c>
+[00:07:13,309] barramentos baterias
+[00:07:13,319] barramentos baterias
+[00:07:13,319] caindo<00:07:14.319><c> estabilizar</c><00:07:15.000><c> pelo</c><00:07:15.120><c> menos</c>
+[00:07:17,029] caindo estabilizar pelo menos
+[00:07:17,039] caindo estabilizar pelo menos
+[00:07:17,039] 23.5<00:07:18.039><c> baterias</c><00:07:18.639><c> aeronave</c><00:07:19.039><c> estão</c>
+[00:07:25,440] boas<00:07:26.440><c> Ok</c><00:07:26.879><c> estabilizou</c><00:07:27.440><c> em</c><00:07:27.599><c> 26</c>
+[00:07:32,599] alto<00:07:33.599><c> vamos</c><00:07:33.879><c> lá</c><00:07:34.240><c> chegar</c><00:07:34.680><c> nosso</c><00:07:35.319><c> ST</c><00:07:35.720><c> War</c>
+[00:07:36,110] alto vamos lá chegar nosso ST War
+[00:07:36,120] alto vamos lá chegar nosso ST War
+[00:07:36,120] protection
+[00:07:37,469] protection
+[00:07:37,479] protection
+[00:07:37,479] System<00:07:38.479><c> Stall</c>
+[00:07:41,520] Stall<00:07:42.520><c> Stall</c>
+[00:07:45,520] Stall<00:07:46.520><c> ST</c>
+[00:07:48,510] Stall ST
+[00:07:48,520] Stall ST
+[00:07:48,520] ST<00:07:49.520><c> ST</c>
+[00:07:52,680] ST<00:07:53.680><c> também</c><00:07:54.000><c> checado</c><00:07:54.400><c> retornei</c><00:07:54.879><c> para</c><00:07:55.400><c> off</c><00:07:56.400><c> fcs</c>
+[00:07:57,390] ST também checado retornei para off fcs
+[00:07:57,400] ST também checado retornei para off fcs
+[00:07:57,400] unit<00:07:58.199><c> V2</c>
+[00:08:00,469] unit V2
+[00:08:00,479] unit V2
+[00:08:00,479] restrição<00:08:01.000><c> de</c><00:08:01.159><c> 4500</c><00:08:01.800><c> que</c><00:08:01.879><c> é</c>
+[00:08:14,479] corredor
+[00:08:17,639] manp<00:08:18.639><c> 3oc</c>
+[00:08:31,319] subiu<00:08:31.800><c> aqui</c><00:08:32.240><c> do</c><00:08:32.519><c> lado</c>
+[00:08:33,990] subiu aqui do lado
+[00:08:34,000] subiu aqui do lado
+[00:08:34,000] esquerdo<00:08:35.000><c> direita</c><00:08:35.959><c> confere</c><00:08:36.959><c> Liv</c><00:08:37.479><c> correspond</c>
+[00:08:59,760] pronto<00:09:00.000><c> para</c><00:09:00.160><c> o</c>
+[00:09:03,760] táxi<00:09:04.760><c> tax</c><00:09:05.399><c> P</c><00:09:05.640><c> tax</c><00:09:06.040><c> bravo</c>
+[00:09:07,670] táxi tax P tax bravo
+[00:09:07,680] táxi tax P tax bravo
+[00:09:07,680] hotel<00:09:08.680><c> no</c><00:09:08.760><c> ponto</c><00:09:09.000><c> de</c><00:09:09.079><c> espera</c><00:09:09.320><c> da</c><00:09:09.480><c> Hotel</c><00:09:09.880><c> chame</c>
+[00:09:10,190] hotel no ponto de espera da Hotel chame
+[00:09:10,200] hotel no ponto de espera da Hotel chame
+[00:09:10,200] no<00:09:10.279><c> ponto</c><00:09:10.480><c> de</c><00:09:10.560><c> espera</c><00:09:10.800><c> da</c><00:09:10.920><c> Hotel</c><00:09:11.200><c> pronto</c><00:09:11.440><c> para</c>
+[00:09:11,829] no ponto de espera da Hotel pronto para
+[00:09:11,839] no ponto de espera da Hotel pronto para
+[00:09:11,839] decolagem<00:09:12.839><c> bravo</c><00:09:13.240><c> ponto</c><00:09:13.480><c> de</c><00:09:13.560><c> espera</c><00:09:13.760><c> da</c><00:09:13.839><c> Hotel</c>
+[00:09:14,069] decolagem bravo ponto de espera da Hotel
+[00:09:14,079] decolagem bravo ponto de espera da Hotel
+[00:09:14,079] chamar<00:09:14.399><c> pronto</c><00:09:14.680><c> decolagem</c><00:09:15.160><c> Golf</c><00:09:16.160><c> bravo</c><00:09:16.959><c> essa</c>
+[00:09:17,150] chamar pronto decolagem Golf bravo essa
+[00:09:17,160] chamar pronto decolagem Golf bravo essa
+[00:09:17,160] aqui<00:09:17.279><c> que</c><00:09:17.360><c> nos</c><00:09:17.720><c> acompanha</c><00:09:18.399><c> Hotel</c><00:09:19.399><c> liberado</c>
+[00:09:19,790] aqui que nos acompanha Hotel liberado
+[00:09:19,800] aqui que nos acompanha Hotel liberado
+[00:09:19,800] aqui<00:09:19.920><c> então</c>
+[00:09:24,880] sim
+[00:09:26,710] sim
+[00:09:26,720] sim
+[00:09:26,720] escut<00:09:27.720><c> passou</c><00:09:28.000><c> através</c><00:09:28.399><c> da</c><00:09:28.480><c> Torre</c><00:09:28.720><c> já</c><00:09:29.640><c> tá</c><00:09:29.839><c> no</c>
+[00:09:29,949] escut passou através da Torre já tá no
+[00:09:29,959] escut passou através da Torre já tá no
+[00:09:29,959] ideal<00:09:30.279><c> de</c><00:09:30.399><c> base</c><00:09:31.360><c> opa</c><00:09:32.279><c> pode</c><00:09:32.440><c> fazer</c><00:09:32.600><c> um</c><00:09:32.720><c> 360</c>
+[00:09:33,430] ideal de base opa pode fazer um 360
+[00:09:33,440] ideal de base opa pode fazer um 360
+[00:09:33,440] local<00:09:33.640><c> aí</c><00:09:33.760><c> V</c><00:09:34.079><c> encolar</c><00:09:34.560><c> um</c><00:09:34.839><c> Ceno</c><00:09:35.839><c> fazer</c><00:09:36.040><c> um</c>
+[00:09:36,790] local aí V encolar um Ceno fazer um
+[00:09:36,800] local aí V encolar um Ceno fazer um
+[00:09:36,800] 360<00:09:37.800><c> ah</c>
+[00:09:42,480] Firma<00:09:43.480><c> e</c><00:09:44.360><c> before</c><00:09:44.640><c> take</c><00:09:44.880><c> off</c><00:09:45.040><c> checklist</c><00:09:45.640><c> take</c>
+[00:09:45,870] Firma e before take off checklist take
+[00:09:45,880] Firma e before take off checklist take
+[00:09:45,880] off
+[00:09:47,030] off
+[00:09:47,040] off
+[00:09:47,040] configuration<00:09:48.040><c> take</c><00:09:48.360><c> off</c>
+[00:09:49,990] configuration take off
+[00:09:50,000] configuration take off
+[00:09:50,000] Ok<00:09:51.000><c> deixa</c><00:09:51.440><c> eu</c><00:09:51.600><c> só</c><00:09:51.760><c> ter</c><00:09:51.959><c> uma</c><00:09:52.160><c> discrepância</c><00:09:52.839><c> aqui</c>
+[00:09:53,350] Ok deixa eu só ter uma discrepância aqui
+[00:09:53,360] Ok deixa eu só ter uma discrepância aqui
+[00:09:53,360] vou<00:09:53.800><c> resetar</c><00:09:54.240><c> porque</c><00:09:54.959><c> mudou</c><00:09:55.320><c> a</c><00:09:55.440><c> pista</c>
+[00:10:08,160] Ok<00:10:09.200><c> e</c><00:10:10.200><c> confere</c><00:10:10.920><c> 2</c>
+[00:10:15,399] 117<00:10:16.399><c> take</c><00:10:16.959><c> off</c><00:10:17.200><c> configuration</c><00:10:17.760><c> check</c><00:10:18.079><c> cas</c>
+[00:10:18,509] 117 take off configuration check cas
+[00:10:18,519] 117 take off configuration check cas
+[00:10:18,519] messages<00:10:19.079><c> eh</c><00:10:20.079><c> no</c><00:10:20.480><c> cas</c><00:10:21.120><c> F</c><00:10:22.120><c> Bel</c>
+[00:10:24,519] SS<00:10:25.959><c> Fe</c><00:10:26.959><c> tá</c><00:10:27.680><c> ah</c><00:10:28.680><c> belão</c><00:10:29.800><c> a</c><00:10:30.040><c> damper</c><00:10:31.040><c> damper</c><00:10:31.959><c> está</c>
+[00:10:34,069] SS Fe tá ah belão a damper damper está
+[00:10:34,079] SS Fe tá ah belão a damper damper está
+[00:10:34,079] off<00:10:35.079><c> not</c><00:10:35.440><c> available</c><00:10:36.440><c> transponder</c><00:10:37.440><c> temos</c><00:10:37.880><c> 3</c>
+[00:10:40,389] off not available transponder temos 3
+[00:10:40,399] off not available transponder temos 3
+[00:10:40,399] 4<00:10:41.639><c> passengers</c><00:10:42.639><c> No</c><00:10:42.920><c> passengers</c><00:10:43.720><c> Light</c>
+[00:10:46,720] Light
+[00:10:48,389] Light
+[00:10:48,399] Light
+[00:10:48,399] ag<00:10:49.399><c> até</c><00:10:49.839><c> 70</c><00:10:50.320><c> nó</c><00:10:51.320><c> por</c><00:10:51.440><c> qualquer</c><00:10:51.720><c> motivo</c><00:10:52.240><c> entre</c>
+[00:10:52,550] ag até 70 nó por qualquer motivo entre
+[00:10:52,560] ag até 70 nó por qualquer motivo entre
+[00:10:52,560] 70<00:10:53.079><c> av1</c><00:10:53.480><c> que</c><00:10:53.560><c> é</c><00:10:53.680><c> de</c><00:10:53.800><c> 104</c><00:10:54.320><c> aborta</c><00:10:54.880><c> por</c><00:10:55.120><c> fogo</c><00:10:55.480><c> no</c>
+[00:10:55,590] 70 av1 que é de 104 aborta por fogo no
+[00:10:55,600] 70 av1 que é de 104 aborta por fogo no
+[00:10:55,600] motor<00:10:56.000><c> falha</c><00:10:56.360><c> no</c><00:10:56.440><c> motor</c><00:10:56.880><c> per</c><00:10:57.160><c> de</c>
+[00:10:57,389] motor falha no motor per de
+[00:10:57,399] motor falha no motor per de
+[00:10:57,399] controlabilidade<00:10:58.279><c> colisão</c><00:10:59.480><c> ou</c><00:10:59.560><c> qualquer</c>
+[00:10:59,870] controlabilidade colisão ou qualquer
+[00:10:59,880] controlabilidade colisão ou qualquer
+[00:10:59,880] outra<00:11:00.079><c> emergência</c><00:11:00.760><c> julgada</c><00:11:01.200><c> necessária</c><00:11:02.160><c> após</c>
+[00:11:02,870] outra emergência julgada necessária após
+[00:11:02,880] outra emergência julgada necessária após
+[00:11:02,880] 104<00:11:03.720><c> prossegue</c><00:11:04.240><c> a</c><00:11:04.440><c> decolagem</c><00:11:04.920><c> rodando</c><00:11:05.279><c> também</c>
+[00:11:05,470] 104 prossegue a decolagem rodando também
+[00:11:05,480] 104 prossegue a decolagem rodando também
+[00:11:05,480] com<00:11:05.720><c> 104</c><00:11:06.440><c> subindo</c><00:11:06.720><c> com</c><00:11:06.880><c> 115</c><00:11:07.480><c> até</c><00:11:07.680><c> 1000</c><00:11:07.880><c> P</c><00:11:08.200><c> que</c>
+[00:11:08,269] com 104 subindo com 115 até 1000 P que
+[00:11:08,279] com 104 subindo com 115 até 1000 P que
+[00:11:08,279] serão<00:11:08.600><c> 31</c><00:11:09.600><c> até</c><00:11:10.320><c> lá</c><00:11:10.519><c> nada</c><00:11:10.720><c> será</c><00:11:10.920><c> feita</c><00:11:11.200><c> apó</c>
+[00:11:11,590] serão 31 até lá nada será feita apó
+[00:11:11,600] serão 31 até lá nada será feita apó
+[00:11:11,600] Memory<00:11:12.040><c> items</c><00:11:12.560><c> e</c><00:11:12.720><c> demais</c><00:11:13.120><c> checklist</c>
+[00:11:13,990] Memory items e demais checklist
+[00:11:14,000] Memory items e demais checklist
+[00:11:14,000] manutenção<00:11:14.760><c> tudo</c><00:11:15.000><c> OK</c><00:11:15.320><c> com</c><00:11:15.519><c> a</c><00:11:15.639><c> aeronave</c><00:11:16.360><c> eh</c>
+[00:11:17,350] manutenção tudo OK com a aeronave eh
+[00:11:17,360] manutenção tudo OK com a aeronave eh
+[00:11:17,360] meteorologia<00:11:18.160><c> Então</c><00:11:19.120><c> temos</c><00:11:20.120><c> estamos</c>
+[00:11:20,350] meteorologia Então temos estamos
+[00:11:20,360] meteorologia Então temos estamos
+[00:11:20,360] operando<00:11:21.000><c> instrumento</c><00:11:21.560><c> nos</c><00:11:21.720><c> mínimos</c><00:11:22.040><c> lá</c><00:11:22.160><c> em</c>
+[00:11:22,230] operando instrumento nos mínimos lá em
+[00:11:22,240] operando instrumento nos mínimos lá em
+[00:11:22,240] Guarulhos<00:11:22.680><c> 200</c><00:11:23.000><c> pés</c><00:11:23.240><c> de</c><00:11:23.360><c> teto</c><00:11:23.639><c> né</c><00:11:24.079><c> afirmo</c>
+[00:11:25,150] Guarulhos 200 pés de teto né afirmo
+[00:11:25,160] Guarulhos 200 pés de teto né afirmo
+[00:11:25,160] E<00:11:26.160><c> então</c><00:11:26.399><c> mas</c><00:11:27.000><c> a</c><00:11:27.120><c> nossa</c><00:11:27.360><c> região</c><00:11:27.600><c> aqui</c><00:11:27.760><c> tá</c>
+[00:11:27,990] E então mas a nossa região aqui tá
+[00:11:28,000] E então mas a nossa região aqui tá
+[00:11:28,000] totalmente<00:11:28.399><c> aberta</c><00:11:29.360><c> caso</c><00:11:29.519><c> seja</c><00:11:29.720><c> necessário</c>
+[00:11:30,150] totalmente aberta caso seja necessário
+[00:11:30,160] totalmente aberta caso seja necessário
+[00:11:30,160] retorno<00:11:30.480><c> para</c><00:11:30.600><c> carte</c><00:11:31.399><c> retorna</c><00:11:32.040><c> não</c><00:11:33.040><c> nada</c>
+[00:11:33,230] retorno para carte retorna não nada
+[00:11:33,240] retorno para carte retorna não nada
+[00:11:33,240] significativo<00:11:34.040><c> alguma</c><00:11:34.360><c> coisa</c><00:11:34.600><c> de</c>
+[00:11:34,710] significativo alguma coisa de
+[00:11:34,720] significativo alguma coisa de
+[00:11:34,720] acrescentar<00:11:35.320><c> negativo</c><00:11:36.079><c> Ok</c><00:11:36.440><c> tudo</c>
+[00:11:39,360] pronto<00:11:40.360><c> Hotel</c>
+[00:11:41,470] pronto Hotel
+[00:11:41,480] pronto Hotel
+[00:11:41,480] pronto<00:11:42.480><c> sim</c><00:11:43.360><c> está</c><00:11:43.600><c> autorizado</c><00:11:44.040><c> a</c><00:11:44.160><c> lin</c><00:11:44.399><c> área</c><00:11:44.600><c> e</c>
+[00:11:44,750] pronto sim está autorizado a lin área e
+[00:11:44,760] pronto sim está autorizado a lin área e
+[00:11:44,760] Decolar<00:11:45.079><c> da</c><00:11:45.160><c> pista</c><00:11:45.480><c> 01</c><00:11:46.480><c> o</c><00:11:47.160><c> vento</c><00:11:47.560><c> 210</c><00:11:48.480><c> gra</c><00:11:48.760><c> 39</c>
+[00:11:49,670] Decolar da pista 01 o vento 210 gra 39
+[00:11:49,680] Decolar da pista 01 o vento 210 gra 39
+[00:11:49,680] autorizado<00:11:50.160><c> a</c><00:11:50.320><c> linhar</c><00:11:50.760><c> Decolar</c><00:11:51.200><c> da</c><00:11:51.360><c> 01</c>
+[00:11:52,750] autorizado a linhar Decolar da 01
+[00:11:52,760] autorizado a linhar Decolar da 01
+[00:11:52,760] o<00:11:53.760><c> delta</c><00:11:54.200><c> mar</c><00:11:54.440><c> chame</c><00:11:54.680><c> nov</c><00:11:55.120><c> curva</c><00:11:55.880><c> decolagem</c>
+[00:11:56,870] o delta mar chame nov curva decolagem
+[00:11:56,880] o delta mar chame nov curva decolagem
+[00:11:56,880] direita<00:11:57.399><c> raposa</c><00:11:58.240><c> né</c><00:11:59.279><c> 4500</c><00:11:59.920><c> e</c><00:12:00.000><c> o</c><00:12:00.079><c> controle</c><00:12:00.360><c> 3575</c>
+[00:12:01,590] direita raposa né 4500 e o controle 3575
+[00:12:01,600] direita raposa né 4500 e o controle 3575
+[00:12:01,600] posse<00:12:02.600><c> prosseguir</c><00:12:03.079><c> com</c><00:12:03.240><c> a</c><00:12:03.320><c> ascensão</c><00:12:04.200><c> é</c>
+[00:12:04,350] posse prosseguir com a ascensão é
+[00:12:04,360] posse prosseguir com a ascensão é
+[00:12:04,360] Aguarda<00:12:04.839><c> a</c><00:12:04.920><c> decolagem</c><00:12:05.360><c> do</c>
+[00:12:06,949] Aguarda a decolagem do
+[00:12:06,959] Aguarda a decolagem do
+[00:12:06,959] fen<00:12:07.959><c> figura</c><00:12:08.760><c> aham</c><00:12:09.760><c> esse</c><00:12:10.760><c> fala</c><00:12:11.000><c> Juliet</c><00:12:11.560><c> certo</c>
+[00:12:11,790] fen figura aham esse fala Juliet certo
+[00:12:11,800] fen figura aham esse fala Juliet certo
+[00:12:11,800] né<00:12:12.480><c> esse</c><00:12:12.800><c> fala</c>
+[00:12:17,920] p<00:12:18.920><c> não</c><00:12:19.079><c> vou</c><00:12:19.320><c> nem</c><00:12:19.680><c> gastar</c><00:12:20.120><c> pneu</c><00:12:20.680><c> giro</c>
+[00:12:21,750] p não vou nem gastar pneu giro
+[00:12:21,760] p não vou nem gastar pneu giro
+[00:12:21,760] ali<00:12:22.760><c> bem</c><00:12:23.680><c> leve</c>
+[00:12:35,920] somente
+[00:12:40,020] [Música]
+[00:13:03,399] aoral<00:13:04.399><c> do</c><00:13:05.120><c> ag</c><00:13:05.680><c> de</c><00:13:05.760><c> São</c><00:13:06.360><c> Paulo</c><00:13:07.720><c> 3575</c><00:13:08.720><c> Boa</c><00:13:08.959><c> viagem</c>
+[00:13:09,629] aoral do ag de São Paulo 3575 Boa viagem
+[00:13:09,639] aoral do ag de São Paulo 3575 Boa viagem
+[00:13:09,639] 3575<00:13:10.639><c> bom</c><00:13:10.800><c> trabalho</c>
+[00:13:13,480] gol<00:13:14.480><c> OK</c><00:13:14.839><c> então</c><00:13:15.399><c> autopilot</c>
+[00:13:24,040] level
+[00:13:26,470] level
+[00:13:26,480] level
+[00:13:26,480] 337<00:13:27.560><c> AL</c><00:13:28.560><c> agarda</c><00:13:29.199><c> o</c><00:13:29.279><c> ils</c><00:13:30.079><c> da</c><00:13:30.199><c> 10</c>
+[00:13:33,000] direita
+[00:13:40,720] des<00:13:41.720><c> clim</c><00:13:42.480><c> indicado</c><00:13:43.480><c> controle</c><00:13:44.120><c> São</c><00:13:44.480><c> Paulo</c>
+[00:13:45,470] des clim indicado controle São Paulo
+[00:13:45,480] des clim indicado controle São Paulo
+[00:13:45,480] deado<00:13:46.480><c> de</c><00:13:46.560><c> Sorocaba</c><00:13:47.079><c> bom</c>
+[00:13:48,949] deado de Sorocaba bom
+[00:13:48,959] deado de Sorocaba bom
+[00:13:48,959] dia<00:13:49.959><c> bom</c><00:13:50.199><c> dia</c><00:13:50.920><c> suba</c><00:13:51.560><c> inicialmente</c><00:13:52.079><c> a</c><00:13:52.440><c> 5500</c><00:13:53.160><c> P</c>
+[00:13:53,389] dia bom dia suba inicialmente a 5500 P
+[00:13:53,399] dia bom dia suba inicialmente a 5500 P
+[00:13:53,399] ainda<00:13:53.680><c> regra</c><00:13:53.920><c> de</c><00:13:54.000><c> voo</c><00:13:54.320><c> visual</c>
+[00:13:57,199] e<00:13:58.199><c> 5000</c>
+[00:14:48,000] SPE
+[00:14:59,480] Alf<00:15:00.600><c> escuta</c><00:15:01.600><c> chama</c><00:15:02.000><c> rádio</c>
+[00:15:04,920] 13181<00:15:05.920><c> Juli</c>
+[00:15:18,560] alfil
+[00:15:22,120] aqui<00:15:23.120><c> o</c><00:15:23.160><c> que</c><00:15:23.240><c> a</c><00:15:23.320><c> gente</c><00:15:23.480><c> vai</c><00:15:23.600><c> realizar</c><00:15:24.079><c> ok</c>
+[00:15:46,880] unit2<00:15:47.880><c> go2</c>
+[00:16:04,040] V
+[00:16:34,240] completa<00:16:34.680><c> agora</c><00:16:34.959><c> curva</c><00:16:35.199><c> esquerda</c><00:16:35.519><c> na</c><00:16:35.639><c> pro</c><00:16:36.040><c> 090</c>
+[00:16:37,030] completa agora curva esquerda na pro 090
+[00:16:37,040] completa agora curva esquerda na pro 090
+[00:16:37,040] esquerda<00:16:37.519><c> 090</c>
+[00:16:46,279] Golf<00:16:47.279><c> pao</c>
+[00:17:18,520] que<00:17:18.720><c> que</c><00:17:18.799><c> será</c><00:17:19.000><c> que</c><00:17:19.079><c> vão</c><00:17:19.240><c> fazer</c><00:17:19.400><c> com</c>
+[00:17:29,240] a<00:17:29.280><c> gente</c><00:17:29.400><c> tá</c><00:17:29.520><c> muito</c><00:17:29.640><c> baixo</c>
+[00:17:31,630] a gente tá muito baixo
+[00:17:31,640] a gente tá muito baixo
+[00:17:31,640] interceptar
+[00:17:36,080] refero<00:17:37.080><c> você</c><00:17:37.799><c> continua</c><00:17:37.960><c> com</c><00:17:38.120><c> controle</c><00:17:38.919><c> turn</c>
+[00:17:39,350] refero você continua com controle turn
+[00:17:39,360] refero você continua com controle turn
+[00:17:39,360] zero<00:17:39.720><c> esquerda</c><00:17:40.720><c> frequência</c><00:17:41.400><c> da</c><00:17:41.520><c> autorização</c>
+[00:17:42,070] zero esquerda frequência da autorização
+[00:17:42,080] zero esquerda frequência da autorização
+[00:17:42,080] de<00:17:42.440><c> tráfego</c><00:17:42.880><c> 1</c><00:17:43.640><c> 2</c><00:17:44.120><c> 1</c><00:17:44.640><c> decimal</c><00:17:45.360><c> 0</c><00:17:45.919><c> frequência</c><00:17:46.520><c> da</c>
+[00:17:46,710] de tráfego 1 2 1 decimal 0 frequência da
+[00:17:46,720] de tráfego 1 2 1 decimal 0 frequência da
+[00:17:46,720] torre<00:17:47.320><c> 1</c><00:17:47.720><c> 3</c><00:17:48.400><c> 5</c><00:17:48.960><c> decimal</c><00:17:49.520><c> 2</c><00:17:50.200><c> vento</c><00:17:51.240><c> 060</c><00:17:52.240><c> gra</c>
+[00:17:53,510] torre 1 3 5 decimal 2 vento 060 gra
+[00:17:53,520] torre 1 3 5 decimal 2 vento 060 gra
+[00:17:53,520] 079<00:17:54.520><c> visibilidade</c><00:17:55.760><c> 800</c><00:17:56.760><c> m</c><00:17:57.840><c> rvr</c><00:17:58.840><c> pista</c><00:17:59.240><c> 1</c><00:17:59.799><c> z0</c>
+[00:18:00,110] 079 visibilidade 800 m rvr pista 1 z0
+[00:18:00,120] 079 visibilidade 800 m rvr pista 1 z0
+[00:18:00,120] esquerda<00:18:00.799><c> 1</c><00:18:01.360><c> 400</c><00:18:02.360><c> M</c><00:18:02.760><c> piorando</c><00:18:03.559><c> RV</c><00:18:04.520><c> R</c><00:18:04.960><c> pista</c><00:18:05.520><c> 1</c>
+[00:18:06,029] esquerda 1 400 M piorando RV R pista 1
+[00:18:06,039] esquerda 1 400 M piorando RV R pista 1
+[00:18:06,039] z0<00:18:06.400><c> direita</c><00:18:07.320><c> maior</c><00:18:07.840><c> que</c><00:18:08.080><c> 2000</c><00:18:08.760><c> M</c><00:18:09.480><c> nevoeiro</c><00:18:10.480><c> cé</c>
+[00:18:11,149] z0 direita maior que 2000 M nevoeiro cé
+[00:18:11,159] z0 direita maior que 2000 M nevoeiro cé
+[00:18:11,159] encoberto<00:18:11.640><c> del</c><00:18:12.720><c> 001</c><00:18:13.799><c> temperatura</c><00:18:14.799><c> 1</c><00:18:15.200><c> 5</c><00:18:15.799><c> ponto</c>
+[00:18:16,350] encoberto del 001 temperatura 1 5 ponto
+[00:18:16,360] encoberto del 001 temperatura 1 5 ponto
+[00:18:16,360] de<00:18:16.440><c> orvalho</c><00:18:17.360><c> 1</c><00:18:18.679><c> km</c><00:18:19.919><c> 1018</c><00:18:21.000><c> excal</c><00:18:22.000><c> informe</c><00:18:22.799><c> T</c>
+[00:18:23,149] de orvalho 1 km 1018 excal informe T
+[00:18:23,159] de orvalho 1 km 1018 excal informe T
+[00:18:23,159] Guarulho<00:18:23.760><c> que</c><00:18:24.000><c> recebeu</c><00:18:24.520><c> informação</c><00:18:24.919><c> nov</c>
+[00:18:29,080] Inter
+[00:18:32,000] airv
+[00:18:37,360] 0945<00:18:38.360><c> categ</c><00:18:38.919><c> 1</c><00:18:39.520><c> Run</c><00:18:39.960><c> 10</c><00:18:41.120><c> appro</c><00:18:42.120><c> Landing</c><00:18:42.600><c> rway</c>
+[00:18:43,830] 0945 categ 1 Run 10 appro Landing rway
+[00:18:43,840] 0945 categ 1 Run 10 appro Landing rway
+[00:18:43,840] 10<00:18:44.840><c> take</c><00:18:45.480><c> Run</c><00:18:46.080><c> 10</c><00:18:46.760><c> L</c>
+[00:18:48,750] 10 take Run 10 L
+[00:18:48,760] 10 take Run 10 L
+[00:18:48,760] cycy
+[00:18:53,280] 1qu
+[00:18:55,950] 1qu
+[00:18:55,960] 1qu
+[00:18:55,960] 1<00:18:56.960><c> 2</c>
+[00:19:02,919] 8<00:19:03.919><c> R</c>
+[00:19:10,640] R<00:19:11.640><c> above</c>
+[00:19:19,520] 2<00:19:20.520><c> as</c><00:19:20.760><c> condições</c><00:19:21.240><c> permanecem</c><00:19:21.720><c> as</c><00:19:21.880><c> mesmas</c><00:19:22.280><c> do</c>
+[00:19:23,270] 2 as condições permanecem as mesmas do
+[00:19:23,280] 2 as condições permanecem as mesmas do
+[00:19:23,280] Tá<00:19:24.039><c> Ok</c><00:19:24.400><c> ela</c><00:19:24.600><c> autorizou</c><00:19:25.159><c> subida</c><00:19:25.480><c> para</c><00:19:25.600><c> 8000</c>
+[00:19:25,990] Tá Ok ela autorizou subida para 8000
+[00:19:26,000] Tá Ok ela autorizou subida para 8000
+[00:19:26,000] mantendo<00:19:26.320><c> por</c><00:19:26.520><c> 090</c><00:19:27.280><c> caso</c><00:19:27.480><c> de</c><00:19:27.600><c> falha</c><00:19:27.919><c> 3</c><00:19:28.159><c> minutos</c>
+[00:19:28,430] mantendo por 090 caso de falha 3 minutos
+[00:19:28,440] mantendo por 090 caso de falha 3 minutos
+[00:19:28,440] são
+[00:19:29,870] são
+[00:19:29,880] são
+[00:19:29,880] 3<00:19:30.880><c> seja</c><00:19:31.080><c> vi</c><00:19:31.280><c> S</c>
+[00:19:33,350] 3 seja vi S
+[00:19:33,360] 3 seja vi S
+[00:19:33,360] 3397<00:19:34.559><c> vo5</c><00:19:35.559><c> de</c><00:19:36.120><c> nível</c><00:19:36.360><c> de</c><00:19:36.440><c> vo</c><00:19:37.360><c> deixa</c><00:19:37.520><c> eu</c><00:19:37.600><c> ver</c><00:19:37.679><c> o</c>
+[00:19:37,710] 3397 vo5 de nível de vo deixa eu ver o
+[00:19:37,720] 3397 vo5 de nível de vo deixa eu ver o
+[00:19:37,720] que<00:19:37.840><c> que</c><00:19:37.919><c> a</c><00:19:37.960><c> gente</c><00:19:38.120><c> pode</c><00:19:38.640><c> interceptar</c>
+[00:19:41,149] que que a gente pode interceptar
+[00:19:41,159] que que a gente pode interceptar
+[00:19:41,159] aqui<00:19:42.159><c> navegação</c>
+[00:19:46,320] inicialmente<00:19:47.320><c> brag</c>
+[00:19:49,149] inicialmente brag
+[00:19:49,159] inicialmente brag
+[00:19:49,159] inicialmente<00:19:50.159><c> bravo</c><00:19:50.600><c> Golf</c><00:19:50.960><c> charli</c><00:19:51.480><c> não</c><00:19:51.559><c> tem</c>
+[00:19:51,909] inicialmente bravo Golf charli não tem
+[00:19:51,919] inicialmente bravo Golf charli não tem
+[00:19:51,919] nada
+[00:19:54,590] nada
+[00:19:54,600] nada
+[00:19:54,600] bravo<00:19:55.720><c> brag</c><00:19:56.720><c> muito</c><00:19:57.039><c> bem</c>
+[00:20:01,799] nave<00:20:02.799><c> SN</c><00:20:03.240><c> M</c><00:20:03.559><c> Bragança</c><00:20:04.400><c> da</c>
+[00:20:13,919] presente<00:20:14.919><c> 25</c><00:20:15.280><c> des</c><00:20:15.919><c> nível</c><00:20:16.200><c> de</c><00:20:16.280><c> voo</c><00:20:16.440><c> 1990</c><00:20:17.320><c> vai</c>
+[00:20:17,590] presente 25 des nível de voo 1990 vai
+[00:20:17,600] presente 25 des nível de voo 1990 vai
+[00:20:17,600] observar<00:20:17.960><c> tráfego</c><00:20:18.400><c> agora</c><00:20:18.679><c> posição</c><00:20:18.960><c> de</c><00:20:19.039><c> 1</c><00:20:19.240><c> hora</c>
+[00:20:19,430] observar tráfego agora posição de 1 hora
+[00:20:19,440] observar tráfego agora posição de 1 hora
+[00:20:19,440] 7<00:20:19.720><c> Milhas</c><00:20:19.960><c> do</c><00:20:20.240><c> rom</c><00:20:21.240><c> cruzando</c>
+[00:20:22,630] 7 Milhas do rom cruzando
+[00:20:22,640] 7 Milhas do rom cruzando
+[00:20:22,640] 0ci
+[00:20:25,110] 0ci
+[00:20:25,120] 0ci
+[00:20:25,120] 321<00:20:26.240><c> tá</c><00:20:27.240><c> o</c><00:20:27.320><c> tráfego</c><00:20:27.640><c> rest</c><00:20:27.880><c> 190</c><00:20:28.320><c> gol</c><00:20:28.640><c> 1</c><00:20:29.080><c> do</c>
+[00:20:29,950] 321 tá o tráfego rest 190 gol 1 do
+[00:20:29,960] 321 tá o tráfego rest 190 gol 1 do
+[00:20:29,960] seg<00:20:30.960><c> vai</c>
+[00:20:48,640] tia
+[00:20:50,190] tia
+[00:20:50,200] tia
+[00:20:54,159] 8000<00:20:55.240><c> 3397</c><00:20:56.240><c> Ch</c><00:20:56.520><c> de</c><00:20:56.640><c> São</c><00:20:56.760><c> Paulo</c><00:20:57.039><c> 12325</c><00:20:58.039><c> B</c><00:20:58.400><c> dia</c>
+[00:20:59,830] 8000 3397 Ch de São Paulo 12325 B dia
+[00:20:59,840] 8000 3397 Ch de São Paulo 12325 B dia
+[00:20:59,840] São<00:21:00.120><c> Paulo</c><00:21:00.480><c> no</c><00:21:00.640><c> 23</c><00:21:01.679><c> 25</c><00:21:02.960><c> 3397</c><00:21:03.960><c> bom</c><00:21:04.120><c> dia</c>
+[00:21:05,590] São Paulo no 23 25 3397 bom dia
+[00:21:05,600] São Paulo no 23 25 3397 bom dia
+[00:21:05,600] obrigado<00:21:06.600><c> 1</c><00:21:06.840><c> 25</c><00:21:07.240><c> desça</c><00:21:07.600><c> pro</c><00:21:07.840><c> nível</c><00:21:08.039><c> 1</c><00:21:08.400><c> 80</c><00:21:08.960><c> sem</c>
+[00:21:09,149] obrigado 1 25 desça pro nível 1 80 sem
+[00:21:09,159] obrigado 1 25 desça pro nível 1 80 sem
+[00:21:09,159] restrições<00:21:09.880><c> 180</c><00:21:10.880><c> go</c><00:21:11.279><c> 1</c>
+[00:21:14,000] 25<00:21:15.000><c> qu</c><00:21:15.559><c> São</c><00:21:15.679><c> Paulo</c><00:21:15.919><c> boa</c><00:21:16.200><c> o</c><00:21:16.279><c> Papa</c><00:21:16.600><c> Serra</c><00:21:16.919><c> Kilo</c>
+[00:21:17,230] 25 qu São Paulo boa o Papa Serra Kilo
+[00:21:17,240] 25 qu São Paulo boa o Papa Serra Kilo
+[00:21:17,240] Oscar<00:21:17.600><c> tango</c><00:21:18.919><c> Kilo</c><00:21:19.919><c> Oscar</c><00:21:20.440><c> tango</c><00:21:20.919><c> Bom</c><00:21:21.559><c> dia</c><00:21:22.559><c> tá</c>
+[00:21:22,710] Oscar tango Kilo Oscar tango Bom dia tá
+[00:21:22,720] Oscar tango Kilo Oscar tango Bom dia tá
+[00:21:22,720] saindo<00:21:22.960><c> na</c><00:21:23.200><c> Zeta</c><00:21:23.520><c> 1</c><00:21:23.840><c> Alfa</c><00:21:24.120><c> correto</c><00:21:24.720><c> afirmativo</c>
+[00:21:25,230] saindo na Zeta 1 Alfa correto afirmativo
+[00:21:25,240] saindo na Zeta 1 Alfa correto afirmativo
+[00:21:25,240] senhora<00:21:25.600><c> Zeta</c><00:21:25.840><c> 1</c><00:21:26.080><c> alfa</c><00:21:26.279><c> o</c><00:21:26.360><c> kilos</c><00:21:26.640><c> Car</c><00:21:26.760><c> tango</c>
+[00:21:26,990] senhora Zeta 1 alfa o kilos Car tango
+[00:21:27,000] senhora Zeta 1 alfa o kilos Car tango
+[00:21:27,000] cruzando<00:21:27.400><c> 4200</c><00:21:28.039><c> da</c><00:21:28.200><c> presena</c>
+[00:21:31,919] controle<00:21:32.440><c> pap</c><00:21:32.720><c> Romeu</c><00:21:33.240><c> Rome</c><00:21:33.760><c> iniciando</c><00:21:34.200><c> RP</c>
+[00:21:34,750] controle pap Romeu Rome iniciando RP
+[00:21:34,760] controle pap Romeu Rome iniciando RP
+[00:21:34,760] pista
+[00:21:37,279] 1<00:21:38.279><c> ch</c><00:21:38.480><c> Ráo</c>
+[00:21:39,390] 1 ch Ráo
+[00:21:39,400] 1 ch Ráo
+[00:21:39,400] Catarina<00:21:40.400><c> serviç</c><00:21:41.600><c> terminado</c><00:21:42.600><c> Ráo</c><00:21:43.080><c> Catarina</c>
+[00:21:48,919] 31<00:21:50.360><c> inicialment</c><00:21:51.360><c> rest</c>
+[00:22:03,400] São<00:22:03.679><c> Paulo</c><00:22:03.919><c> Papa</c><00:22:04.240><c> Serra</c><00:22:04.520><c> Delta</c><00:22:04.760><c> o</c><00:22:04.880><c> te</c>
+[00:22:06,269] São Paulo Papa Serra Delta o te
+[00:22:06,279] São Paulo Papa Serra Delta o te
+[00:22:06,279] Mike<00:22:07.279><c> Delta</c><00:22:08.000><c> Hotel</c><00:22:08.240><c> Mike</c><00:22:08.559><c> São</c><00:22:08.720><c> Paulo</c><00:22:08.880><c> manté</c><00:22:09.440><c> a</c>
+[00:22:09,510] Mike Delta Hotel Mike São Paulo manté a
+[00:22:09,520] Mike Delta Hotel Mike São Paulo manté a
+[00:22:09,520] proa<00:22:09.880><c> de</c><00:22:10.039><c> Sorocaba</c><00:22:10.679><c> suba</c><00:22:11.039><c> 6000</c><00:22:11.640><c> 6000</c><00:22:12.320><c> na</c><00:22:12.400><c> proa</c>
+[00:22:12,590] proa de Sorocaba suba 6000 6000 na proa
+[00:22:12,600] proa de Sorocaba suba 6000 6000 na proa
+[00:22:12,600] de<00:22:12.679><c> Sorocaba</c><00:22:13.039><c> Delta</c><00:22:13.400><c> Hotel</c>
+[00:22:19,880] Mike<00:22:20.880><c> Golf</c><00:22:21.320><c> apenas</c><00:22:21.559><c> para</c><00:22:21.799><c> informação</c><00:22:22.120><c> vai</c>
+[00:22:22,350] Mike Golf apenas para informação vai
+[00:22:22,360] Mike Golf apenas para informação vai
+[00:22:22,360] aguardar<00:22:22.720><c> o</c><00:22:22.880><c> ils</c><00:22:23.320><c> Quebec</c><00:22:23.679><c> dação</c><00:22:24.480><c> no</c><00:22:24.640><c> zero</c>
+[00:22:24,870] aguardar o ils Quebec dação no zero
+[00:22:24,880] aguardar o ils Quebec dação no zero
+[00:22:24,880] direito<00:22:25.760><c> tá</c><00:22:26.080><c> cente</c><00:22:26.360><c> LS</c><00:22:26.720><c> Quebec</c><00:22:27.039><c> no</c><00:22:27.279><c> zero</c>
+[00:22:27,510] direito tá cente LS Quebec no zero
+[00:22:27,520] direito tá cente LS Quebec no zero
+[00:22:27,520] direito<00:22:27.840><c> o</c><00:22:27.960><c> Golf</c>
+[00:22:29,669] direito o Golf
+[00:22:29,679] direito o Golf
+[00:22:29,679] Delta<00:22:30.039><c> Hotel</c><00:22:30.320><c> Mike</c><00:22:30.600><c> vai</c><00:22:30.720><c> aguardar</c><00:22:31.000><c> o</c><00:22:31.080><c> Il</c>
+[00:22:31,510] Delta Hotel Mike vai aguardar o Il
+[00:22:31,520] Delta Hotel Mike vai aguardar o Il
+[00:22:31,520] Quebec<00:22:31.840><c> da</c><00:22:32.039><c> 10</c><00:22:32.320><c> direita</c><00:22:33.159><c> Quebec</c><00:22:33.679><c> 10</c><00:22:34.039><c> direita</c>
+[00:22:34,350] Quebec da 10 direita Quebec 10 direita
+[00:22:34,360] Quebec da 10 direita Quebec 10 direita
+[00:22:34,360] Delta<00:22:34.720><c> Hotel</c>
+[00:22:44,080] mik<00:22:45.080><c> 25</c><00:22:45.559><c> desça</c><00:22:45.880><c> pro</c><00:22:46.039><c> nível</c><00:22:46.279><c> de</c><00:22:46.360><c> voo</c><00:22:46.640><c> no</c><00:22:47.440><c> chama</c>
+[00:22:47,710] mik 25 desça pro nível de voo no chama
+[00:22:47,720] mik 25 desça pro nível de voo no chama
+[00:22:47,720] São<00:22:47.880><c> Paulo</c><00:22:48.240><c> na</c><00:22:48.360><c> frequência</c>
+[00:22:50,750] São Paulo na frequência
+[00:22:50,760] São Paulo na frequência
+[00:22:50,760] 1325<00:22:51.760><c> 235</c>
+[00:23:01,760] go<00:23:02.240><c> chama</c><00:23:02.520><c> São</c><00:23:02.679><c> Paulo</c><00:23:03.080><c> 2975</c><00:23:03.960><c> bom</c><00:23:04.279><c> dia</c><00:23:04.960><c> 2975</c><00:23:05.960><c> bom</c>
+[00:23:06,110] go chama São Paulo 2975 bom dia 2975 bom
+[00:23:06,120] go chama São Paulo 2975 bom dia 2975 bom
+[00:23:06,120] dia
+[00:23:12,520] Golf<00:23:13.520><c> transfere</c><00:23:14.159><c> bom</c>
+[00:23:15,990] Golf transfere bom
+[00:23:16,000] Golf transfere bom
+[00:23:16,000] dia<00:23:17.000><c> bom</c><00:23:17.159><c> dia</c><00:23:17.279><c> Man</c><00:23:17.760><c> 8000</c><00:23:18.520><c> pção</c><00:23:19.520><c> da</c><00:23:19.679><c> presente</c>
+[00:23:20,390] dia bom dia Man 8000 pção da presente
+[00:23:20,400] dia bom dia Man 8000 pção da presente
+[00:23:20,400] pro<00:23:21.520><c> 060</c><00:23:22.520><c> limit</c><00:23:23.240><c> mais</c><00:23:23.559><c> 4</c>
+[00:23:24,470] pro 060 limit mais 4
+[00:23:24,480] pro 060 limit mais 4
+[00:23:24,480] minutos<00:23:25.480><c> 060</c><00:23:26.400><c> mano</c><00:23:26.960><c> 8000</c><00:23:27.919><c> 4</c><00:23:28.120><c> minutos</c>
+[00:23:31,159] pro<00:23:32.400><c> estabilizado</c><00:23:33.400><c> quec</c><00:23:34.120><c> da</c><00:23:34.240><c> direita</c>
+[00:23:35,310] pro estabilizado quec da direita
+[00:23:35,320] pro estabilizado quec da direita
+[00:23:35,320] 271<00:23:36.320><c> 27</c><00:23:36.720><c> Torre</c><00:23:36.960><c> Guarulhos</c>
+[00:23:38,149] 271 27 Torre Guarulhos
+[00:23:38,159] 271 27 Torre Guarulhos
+[00:23:38,159] 352<00:23:39.159><c> 352</c><00:23:39.880><c> Bom</c>
+[00:23:46,919] dia<00:23:47.919><c> no</c><00:23:48.039><c> menos</c><00:23:48.320><c> 5</c><00:23:48.840><c> des</c><00:23:49.559><c> Man</c><00:23:49.760><c> tem</c><00:23:49.960><c> a</c><00:23:50.360><c> me</c><00:23:50.760><c> mil</c><00:23:50.919><c> pés</c>
+[00:23:51,470] dia no menos 5 des Man tem a me mil pés
+[00:23:51,480] dia no menos 5 des Man tem a me mil pés
+[00:23:51,480] no<00:23:51.600><c> menos</c><00:23:51.840><c> 5</c><00:23:52.480><c> É</c><00:23:53.000><c> men</c><00:23:53.200><c> 58</c>
+[00:23:55,350] no menos 5 É men 58
+[00:23:55,360] no menos 5 É men 58
+[00:23:55,360] 2019<00:23:56.360><c> Men</c>
+[00:24:20,600] 080<00:24:21.600><c> limite</c><00:24:22.320><c> 3</c><00:24:23.320><c> direita</c><00:24:23.760><c> 0</c><00:24:24.559><c> limite</c><00:24:24.919><c> 3</c><00:24:25.279><c> minut</c>
+[00:24:26,149] 080 limite 3 direita 0 limite 3 minut
+[00:24:26,159] 080 limite 3 direita 0 limite 3 minut
+[00:24:26,159] minutos<00:24:26.440><c> na</c>
+[00:24:31,000] o<00:24:31.760><c> no</c><00:24:31.880><c> Men</c><00:24:32.320><c> C</c><00:24:33.320><c> ch</c><00:24:33.960><c> na</c><00:24:34.080><c> escuta</c><00:24:34.399><c> só</c><00:24:35.000><c> para</c>
+[00:24:35,190] o no Men C ch na escuta só para
+[00:24:35,200] o no Men C ch na escuta só para
+[00:24:35,200] informação<00:24:35.559><c> do</c><00:24:35.679><c> senhor</c><00:24:35.919><c> você</c><00:24:36.120><c> vai</c><00:24:36.200><c> seguir</c><00:24:36.399><c> um</c>
+[00:24:36,510] informação do senhor você vai seguir um
+[00:24:36,520] informação do senhor você vai seguir um
+[00:24:36,520] Bang<00:24:37.279><c> 787</c><00:24:38.080><c> pesado</c><00:24:38.399><c> na</c><00:24:38.720><c> final</c><00:24:38.960><c> agora</c><00:24:39.399><c> 10</c><00:24:39.720><c> milhas</c>
+[00:24:39,990] Bang 787 pesado na final agora 10 milhas
+[00:24:40,000] Bang 787 pesado na final agora 10 milhas
+[00:24:40,000] à<00:24:40.120><c> frente</c>
+[00:24:50,039] Oka<00:24:51.039><c> para</c><00:24:51.279><c> 6000</c>
+[00:24:52,630] Oka para 6000
+[00:24:52,640] Oka para 6000
+[00:24:52,640] 10019<00:24:53.640><c> 6</c><00:24:54.480><c> 1019</c><00:24:55.080><c> o</c>
+[00:24:56,149] 10019 6 1019 o
+[00:24:56,159] 10019 6 1019 o
+[00:24:56,159] Golf<00:24:57.159><c> quantos</c><00:24:57.880><c> mil</c><00:24:58.080><c> p</c>
+[00:24:58,909] Golf quantos mil p
+[00:24:58,919] Golf quantos mil p
+[00:24:58,919] 1000<00:24:59.919><c> 1</c><00:25:00.440><c> p</c><00:25:00.840><c> minuto</c>
+[00:25:10,520] 1119<00:25:11.520><c> n</c><00:25:12.120><c> menos</c><00:25:12.440><c> 5</c><00:25:12.679><c> reduz</c><00:25:13.039><c> a</c><00:25:13.159><c> velocidade</c><00:25:13.520><c> para</c><00:25:13.720><c> 1</c>
+[00:25:14,389] 1119 n menos 5 reduz a velocidade para 1
+[00:25:14,399] 1119 n menos 5 reduz a velocidade para 1
+[00:25:14,399] 709<00:25:15.480><c> 1</c><00:25:16.480><c> 709</c><00:25:17.279><c> 1</c>
+[00:25:26,760] Gracias<00:25:27.760><c> nada</c>
+[00:25:36,279] no<00:25:36.480><c> meio</c><00:25:36.679><c> no</c><00:25:36.799><c> C</c><00:25:37.080><c> vai</c><00:25:37.200><c> passar</c><00:25:37.399><c> um</c><00:25:37.480><c> pouquinho</c>
+[00:25:37,750] no meio no C vai passar um pouquinho
+[00:25:37,760] no meio no C vai passar um pouquinho
+[00:25:37,760] acima<00:25:38.039><c> do</c><00:25:38.200><c> 80</c><00:25:38.600><c> aqui</c><00:25:38.679><c> no</c><00:25:38.880><c> 283</c><00:25:39.760><c> Lom</c><00:25:40.120><c> está</c><00:25:40.240><c> à</c><00:25:40.360><c> nossa</c>
+[00:25:40,590] acima do 80 aqui no 283 Lom está à nossa
+[00:25:40,600] acima do 80 aqui no 283 Lom está à nossa
+[00:25:40,600] direita<00:25:40.960><c> acredito</c><00:25:41.320><c> que</c><00:25:41.399><c> logo</c><00:25:41.600><c> mais</c><00:25:41.799><c> deve</c>
+[00:25:42,269] direita acredito que logo mais deve
+[00:25:42,279] direita acredito que logo mais deve
+[00:25:42,279] autorizar<00:25:42.760><c> para</c><00:25:43.080><c> de</c><00:25:43.200><c> lomin</c>
+[00:25:44,470] autorizar para de lomin
+[00:25:44,480] autorizar para de lomin
+[00:25:44,480] já<00:25:45.960><c> 1</c><00:25:46.960><c> passou</c><00:25:47.240><c> um</c><00:25:47.320><c> pouco</c><00:25:47.559><c> acima</c><00:25:47.840><c> do</c><00:25:48.039><c> 80</c><00:25:48.840><c> no</c><00:25:49.240><c> 283</c>
+[00:25:50,190] já 1 passou um pouco acima do 80 no 283
+[00:25:50,200] já 1 passou um pouco acima do 80 no 283
+[00:25:50,200] já<00:25:50.320><c> é</c><00:25:50.399><c> o</c><00:25:50.480><c> que</c><00:25:50.520><c> eu</c><00:25:50.600><c> quero</c>
+[00:25:55,480] acreditar<00:25:56.480><c> Quebec</c><00:25:56.840><c> 10</c><00:25:57.080><c> direito</c><00:25:57.399><c> T</c><00:25:57.600><c> 631</c>
+[00:26:00,149] acreditar Quebec 10 direito T 631
+[00:26:00,159] acreditar Quebec 10 direito T 631
+[00:26:00,159] nem<00:26:00.480><c> chegamos</c><00:26:00.760><c> a</c><00:26:00.880><c> passar</c><00:26:01.240><c> de</c><00:26:01.360><c> 10</c><00:26:02.320><c> Vamos</c>
+[00:26:02,909] nem chegamos a passar de 10 Vamos
+[00:26:02,919] nem chegamos a passar de 10 Vamos
+[00:26:02,919] considerar
+[00:26:18,480] de<00:26:19.480><c> 120</c><00:26:20.200><c> minutos</c><00:26:20.640><c> limite</c>
+[00:26:45,840] noso
+[00:26:49,520] Brief<00:26:50.520><c> Guar</c>
+[00:26:58,520] cor<00:26:59.039><c> 095</c><00:26:59.960><c> eer</c><00:27:00.960><c> noss</c><00:27:01.559><c> 4100</c><00:27:02.159><c> ada</c><00:27:02.840><c> de</c>
+[00:27:04,310] cor 095 eer noss 4100 ada de
+[00:27:04,320] cor 095 eer noss 4100 ada de
+[00:27:04,320] 2651<00:27:05.320><c> já</c><00:27:05.559><c> está</c><00:27:05.720><c> setad</c><00:27:06.200><c> Mimo</c><00:27:06.480><c> de</c><00:27:06.559><c> 200</c><00:27:06.880><c> P</c><00:27:07.039><c> de</c>
+[00:27:08,070] 2651 já está setad Mimo de 200 P de
+[00:27:08,080] 2651 já está setad Mimo de 200 P de
+[00:27:08,080] altura<00:27:09.080><c> caso</c><00:27:09.240><c> de</c><00:27:09.320><c> arremetida</c><00:27:09.840><c> subir</c><00:27:10.200><c> para</c><00:27:10.360><c> me</c>
+[00:27:11,470] altura caso de arremetida subir para me
+[00:27:11,480] altura caso de arremetida subir para me
+[00:27:11,480] pés<00:27:12.480><c> Dire</c><00:27:12.960><c> na</c><00:27:13.960><c> lim</c><00:27:14.720><c> de</c><00:27:14.799><c> 2</c><00:27:15.120><c> minutos</c><00:27:15.559><c> e</c><00:27:15.720><c> Man</c><00:27:16.120><c> a</c>
+[00:27:16,190] pés Dire na lim de 2 minutos e Man a
+[00:27:16,200] pés Dire na lim de 2 minutos e Man a
+[00:27:16,200] máxima
+[00:27:17,389] máxima
+[00:27:17,399] máxima
+[00:27:17,399] de<00:27:18.399><c> direita</c><00:27:19.120><c> 180</c><00:27:20.120><c> máxima</c><00:27:20.399><c> de</c><00:27:20.520><c> 1</c><00:27:21.520><c> sen</c>
+[00:27:23,029] de direita 180 máxima de 1 sen
+[00:27:23,039] de direita 180 máxima de 1 sen
+[00:27:23,039] Gol<00:27:24.399><c> né</c><00:27:25.399><c> bem</c><00:27:25.799><c> reduzido</c><00:27:27.159><c> ok</c><00:27:28.240><c> então</c><00:27:28.919><c> continuando</c>
+[00:27:29,190] Gol né bem reduzido ok então continuando
+[00:27:29,200] Gol né bem reduzido ok então continuando
+[00:27:29,200] o<00:27:29.279><c> nosso</c><00:27:29.480><c> briefing</c><00:27:30.039><c> remetida</c><00:27:30.679><c> subir</c><00:27:31.080><c> para</c>
+[00:27:31,190] o nosso briefing remetida subir para
+[00:27:31,200] o nosso briefing remetida subir para
+[00:27:31,200] 6000<00:27:31.640><c> pés</c><00:27:31.840><c> mantendo</c><00:27:32.120><c> o</c><00:27:32.200><c> curso</c><00:27:32.440><c> em</c><00:27:32.600><c> frente</c><00:27:32.880><c> até</c>
+[00:27:33,029] 6000 pés mantendo o curso em frente até
+[00:27:33,039] 6000 pés mantendo o curso em frente até
+[00:27:33,039] passar<00:27:33.279><c> 3300</c><00:27:34.279><c> pés</c><00:27:34.720><c> posso</c><00:27:35.159><c> curvar</c><00:27:35.559><c> direita</c>
+[00:27:35,830] passar 3300 pés posso curvar direita
+[00:27:35,840] passar 3300 pés posso curvar direita
+[00:27:35,840] fazendo<00:27:36.200><c> uma</c><00:27:36.360><c> espera</c><00:27:36.600><c> em</c><00:27:36.720><c> esimo</c><00:27:37.279><c> uma</c>
+[00:27:37,630] fazendo uma espera em esimo uma
+[00:27:37,640] fazendo uma espera em esimo uma
+[00:27:37,640] restrição<00:27:38.000><c> a</c><00:27:38.240><c> de</c><00:27:38.320><c> 230</c><00:27:39.039><c> nós</c><00:27:39.480><c> de</c><00:27:39.679><c> velocidade</c>
+[00:27:41,509] restrição a de 230 nós de velocidade
+[00:27:41,519] restrição a de 230 nós de velocidade
+[00:27:41,519] máxima
+[00:27:43,389] máxima
+[00:27:43,399] máxima
+[00:27:43,399] Beleza<00:27:44.399><c> a</c><00:27:44.519><c> gente</c><00:27:44.760><c> tá</c><00:27:45.039><c> praticamente</c><00:27:46.039><c> aando</c><00:27:46.720><c> Lom</c>
+[00:27:47,029] Beleza a gente tá praticamente aando Lom
+[00:27:47,039] Beleza a gente tá praticamente aando Lom
+[00:27:47,039] em
+[00:27:51,399] breve<00:27:52.399><c> para</c><00:27:52.799><c> méritos</c><00:27:53.600><c> de</c><00:27:54.600><c> navegação</c><00:27:55.080><c> eu</c><00:27:55.159><c> vou</c>
+[00:27:55,389] breve para méritos de navegação eu vou
+[00:27:55,399] breve para méritos de navegação eu vou
+[00:27:55,399] apurar<00:27:56.120><c> aqui</c><00:27:56.200><c> mas</c><00:27:56.519><c> tá</c><00:27:56.640><c> V</c><00:27:56.799><c> no</c><00:27:56.880><c> R</c><00:27:57.200><c> ok</c><00:27:57.559><c> ok</c>
+[00:28:11,679] un
+[00:28:46,720] estabilizado<00:28:47.240><c> logo</c><00:28:47.440><c> estamos</c><00:28:47.880><c> autorizados</c>
+[00:28:48,789] estabilizado logo estamos autorizados
+[00:28:48,799] estabilizado logo estamos autorizados
+[00:28:48,799] então<00:28:49.799><c> approach</c><00:28:50.640><c> armado</c>
+[00:28:59,120] 3397<00:29:00.120><c> desa</c><00:29:00.480><c> para</c><00:29:00.640><c> 6000</c><00:29:01.159><c> pés</c><00:29:01.480><c> na</c><00:29:01.600><c> pro</c><00:29:01.919><c> de</c><00:29:02.000><c> Len</c>
+[00:29:02,430] 3397 desa para 6000 pés na pro de Len
+[00:29:02,440] 3397 desa para 6000 pés na pro de Len
+[00:29:02,440] reposta<00:29:02.840><c> estabilizada</c><00:29:03.480><c> juste</c><00:29:04.320><c> 109</c><00:29:05.320><c> 6000</c><00:29:06.080><c> L</c>
+[00:29:06,710] reposta estabilizada juste 109 6000 L
+[00:29:06,720] reposta estabilizada juste 109 6000 L
+[00:29:06,720] repor<00:29:07.159><c> estabilizado</c><00:29:07.640><c> com</c>
+[00:29:08,909] repor estabilizado com
+[00:29:08,919] repor estabilizado com
+[00:29:08,919] no9<00:29:10.279><c> 3397</c>
+[00:29:13,720] obrigado<00:29:14.720><c> tá</c><00:29:15.480><c> liso</c><00:29:15.799><c> que</c><00:29:15.880><c> parece</c><00:29:16.120><c> que</c><00:29:16.200><c> nós</c>
+[00:29:16,350] obrigado tá liso que parece que nós
+[00:29:16,360] obrigado tá liso que parece que nós
+[00:29:16,360] estamos<00:29:16.559><c> no</c><00:29:16.679><c> simulador</c><00:29:17.080><c> né</c><00:29:17.440><c> Pois</c><00:29:17.640><c> é</c><00:29:18.279><c> é</c><00:29:18.640><c> verdade</c>
+[00:29:19,630] estamos no simulador né Pois é é verdade
+[00:29:19,640] estamos no simulador né Pois é é verdade
+[00:29:19,640] redu<00:29:20.120><c> a</c><00:29:20.200><c> velocidade</c><00:29:20.840><c> para</c>
+[00:29:23,029] redu a velocidade para
+[00:29:23,039] redu a velocidade para
+[00:29:23,039] 13s<00:29:24.039><c> 3</c>
+[00:29:26,269] 13s 3
+[00:29:26,279] 13s 3
+[00:29:26,279] noss<00:29:27.279><c> Ok</c><00:29:27.480><c> então</c><00:29:28.399><c> Ok</c>
+[00:29:29,470] noss Ok então Ok
+[00:29:29,480] noss Ok então Ok
+[00:29:29,480] reduzido<00:29:30.480><c> nossa</c><00:29:30.720><c> frente</c><00:29:31.000><c> tá</c><00:29:31.120><c> com</c><00:29:31.360><c> 140</c><00:29:32.039><c> de</c>
+[00:29:38,200] Ground<00:29:39.200><c> tráfic</c><00:29:39.600><c> P7</c><00:29:40.000><c> já</c><00:29:40.120><c> mant</c><00:29:40.480><c> no</c><00:29:40.559><c> 130</c><00:29:41.039><c> no</c><00:29:41.399><c> é</c><00:29:41.440><c> um</c>
+[00:29:41,549] Ground tráfic P7 já mant no 130 no é um
+[00:29:41,559] Ground tráfic P7 já mant no 130 no é um
+[00:29:41,559] Bank<00:29:41.840><c> 737</c><00:29:42.559><c> qu</c><00:29:43.240><c> tá</c><00:29:43.399><c> sente</c><00:29:43.679><c> do</c><00:29:43.799><c> tráfego</c><00:29:44.159><c> e</c>
+[00:29:44,350] Bank 737 qu tá sente do tráfego e
+[00:29:44,360] Bank 737 qu tá sente do tráfego e
+[00:29:44,360] reduzindo<00:29:44.760><c> o</c>
+[00:29:56,320] Golf<00:29:57.320><c> Lou</c><00:29:58.320><c> é</c><00:29:58.440><c> a</c><00:29:58.799><c> 6000</c><00:29:59.360><c> mesmo</c><00:29:59.600><c> né</c>
+[00:30:01,630] Golf Lou é a 6000 mesmo né
+[00:30:01,640] Golf Lou é a 6000 mesmo né
+[00:30:01,640] Tá<00:30:02.640><c> també</c><00:30:03.480><c> 6.000</c><00:30:04.360><c> correto</c><00:30:05.360><c> Ok</c><00:30:06.000><c> tô</c><00:30:06.360><c> com</c><00:30:06.480><c> Flap</c><00:30:06.840><c> 2</c>
+[00:30:07,509] Tá també 6.000 correto Ok tô com Flap 2
+[00:30:07,519] Tá també 6.000 correto Ok tô com Flap 2
+[00:30:07,519] aguardando<00:30:08.000><c> configuração</c><00:30:08.480><c> de</c><00:30:08.600><c> TR</c><00:30:08.960><c> então</c><00:30:09.120><c> com</c>
+[00:30:09,350] aguardando configuração de TR então com
+[00:30:09,360] aguardando configuração de TR então com
+[00:30:09,360] indicação<00:30:09.760><c> de</c><00:30:10.240><c> um</c><00:30:10.880><c> dot</c><00:30:11.159><c> de</c><00:30:11.320><c> Glide</c>
+[00:30:18,519] Ok<00:30:19.519><c> 3397</c><00:30:20.440><c> reduz</c><00:30:20.760><c> a</c><00:30:20.840><c> velocidade</c>
+[00:30:22,950] Ok 3397 reduz a velocidade
+[00:30:22,960] Ok 3397 reduz a velocidade
+[00:30:22,960] 1609<00:30:23.960><c> confirme</c>
+[00:30:25,509] 1609 confirme
+[00:30:25,519] 1609 confirme
+[00:30:25,519] 1<00:30:26.519><c> reduza</c><00:30:26.799><c> a</c><00:30:26.840><c> velocidade</c><00:30:27.320><c> 160</c>
+[00:30:28,549] 1 reduza a velocidade 160
+[00:30:28,559] 1 reduza a velocidade 160
+[00:30:28,559] prede<00:30:28.960><c> já</c><00:30:29.080><c> reduzindo</c><00:30:29.519><c> na</c><00:30:29.640><c> final</c><00:30:29.840><c> é</c><00:30:29.960><c> um</c><00:30:30.679><c> é</c><00:30:31.159><c> eco</c>
+[00:30:33,269] prede já reduzindo na final é um é eco
+[00:30:33,279] prede já reduzindo na final é um é eco
+[00:30:49,000] reduzindo<00:30:50.000><c> só</c><00:30:50.240><c> a</c><00:30:50.320><c> vantagem</c><00:30:50.600><c> do</c><00:30:50.720><c> feno</c><00:30:51.000><c> 300</c><00:30:51.320><c> em</c>
+[00:30:51,389] reduzindo só a vantagem do feno 300 em
+[00:30:51,399] reduzindo só a vantagem do feno 300 em
+[00:30:51,399] relação<00:30:51.600><c> a</c><00:30:51.960><c> a</c><00:30:52.039><c> gente</c><00:30:52.200><c> consegue</c><00:30:52.480><c> usar</c><00:30:52.640><c> o</c><00:30:52.720><c> Flap</c><00:30:53.039><c> 2</c>
+[00:30:53,269] relação a a gente consegue usar o Flap 2
+[00:30:53,279] relação a a gente consegue usar o Flap 2
+[00:30:53,279] Antes<00:30:53.559><c> do</c><00:30:53.760><c> trem</c><00:30:54.039><c> né</c><00:30:54.240><c> sem</c><00:30:54.519><c> o</c><00:30:54.679><c> aviso</c><00:30:55.120><c> de</c><00:30:55.240><c> trem</c>
+[00:30:58,279] é<00:30:58.480><c> realmente</c><00:30:58.799><c> a</c><00:30:59.399><c> consegue</c><00:31:00.399><c> reduzir</c><00:31:01.200><c> bem</c><00:31:01.440><c> o</c>
+[00:31:01,629] é realmente a consegue reduzir bem o
+[00:31:01,639] é realmente a consegue reduzir bem o
+[00:31:01,639] avião<00:31:02.000><c> sem</c><00:31:02.279><c> os</c><00:31:02.480><c> avisos</c><00:31:03.799><c> 3397</c><00:31:04.799><c> para</c>
+[00:31:04,990] avião sem os avisos 3397 para
+[00:31:05,000] avião sem os avisos 3397 para
+[00:31:05,000] sequenciamento<00:31:05.600><c> direita</c>
+[00:31:07,909] sequenciamento direita
+[00:31:07,919] sequenciamento direita
+[00:31:07,919] 2<00:31:08.919><c> direita</c>
+[00:31:14,399] 2<00:31:15.399><c> descida</c><00:31:15.799><c> 7000</c><00:31:16.600><c> ajuste</c>
+[00:31:24,080] altímetro<00:31:25.080><c> Paulo</c>
+[00:31:26,909] altímetro Paulo
+[00:31:26,919] altímetro Paulo
+[00:31:26,919] GO<00:31:27.919><c> 25</c><00:31:28.240><c> des</c><00:31:28.440><c> se</c><00:31:28.559><c> para</c><00:31:28.760><c> 7.000</c><00:31:29.240><c> pés</c><00:31:29.519><c> ajuste</c><00:31:29.919><c> r19</c>
+[00:31:30,590] GO 25 des se para 7.000 pés ajuste r19
+[00:31:30,600] GO 25 des se para 7.000 pés ajuste r19
+[00:31:30,600] agora<00:31:31.240><c> 7.000</c><00:31:31.880><c> 1019</c><00:31:32.320><c> igual</c><00:31:32.559><c> nomeo</c>
+[00:31:35,760] 25<00:31:37.080><c> o</c><00:31:38.080><c> me</c><00:31:38.279><c> un5</c><00:31:38.720><c> tá</c><00:31:38.880><c> estabilizado</c><00:31:39.240><c> a</c><00:31:39.919><c> Il</c><00:31:40.320><c> Quebec</c>
+[00:31:40,629] 25 o me un5 tá estabilizado a Il Quebec
+[00:31:40,639] 25 o me un5 tá estabilizado a Il Quebec
+[00:31:40,639] cat2<00:31:41.279><c> pista</c><00:31:41.639><c> 1</c><00:31:42.519><c> z0</c><00:31:42.799><c> da</c><00:31:43.159><c> direita</c><00:31:43.880><c> tente</c><00:31:44.399><c> chame</c>
+[00:31:44,750] cat2 pista 1 z0 da direita tente chame
+[00:31:44,760] cat2 pista 1 z0 da direita tente chame
+[00:31:44,760] torre<00:31:45.080><c> frequência</c><00:31:45.480><c> 135</c><00:31:46.039><c> decimal</c><00:31:46.399><c> 2</c><00:31:46.559><c> tem</c>
+[00:31:46,710] torre frequência 135 decimal 2 tem
+[00:31:46,720] torre frequência 135 decimal 2 tem
+[00:31:46,720] pomposo
+[00:31:47,909] pomposo
+[00:31:47,919] pomposo
+[00:31:47,919] 1352<00:31:48.919><c> o</c><00:31:49.080><c> go</c><00:31:49.240><c> 1</c><00:31:49.480><c> me</c><00:31:49.639><c> 1</c><00:31:49.880><c> 5</c><00:31:50.120><c> obrigado</c><00:31:50.440><c> bom</c><00:31:50.600><c> dia</c><00:31:51.039><c> bom</c>
+[00:31:51,269] 1352 o go 1 me 1 5 obrigado bom dia bom
+[00:31:51,279] 1352 o go 1 me 1 5 obrigado bom dia bom
+[00:31:51,279] dia<00:31:51.880><c> então</c><00:31:52.080><c> 3397</c><00:31:52.840><c> reduza</c><00:31:53.120><c> a</c><00:31:53.200><c> velocidade</c><00:31:53.600><c> para</c>
+[00:31:53,830] dia então 3397 reduza a velocidade para
+[00:31:53,840] dia então 3397 reduza a velocidade para
+[00:31:53,840] mínima<00:31:54.200><c> de</c>
+[00:31:54,789] mínima de
+[00:31:54,799] mínima de
+[00:31:54,799] aproximação<00:31:55.799><c> reduzindo</c><00:31:56.679><c> 3397</c>
+[00:32:02,799] agora<00:32:03.799><c> a</c><00:32:04.000><c> gente</c><00:32:04.200><c> tá</c><00:32:04.399><c> operando</c><00:32:04.960><c> Cat</c><00:32:05.399><c> se</c><00:32:05.600><c> eu</c><00:32:05.880><c> dese</c>
+[00:32:09,519] o
+[00:32:11,380] o
+[00:32:11,390] o
+[00:32:11,390] [Música]
+[00:32:14,110] [Música]
+[00:32:14,120] [Música]
+[00:32:14,120] então<00:32:15.120><c> fiz</c><00:32:15.440><c> a</c><00:32:15.519><c> mesma</c><00:32:15.760><c> pergunta</c><00:32:16.120><c> mental</c>
+[00:32:26,840] mim<00:32:27.880><c> 397</c><00:32:28.399><c> vo</c><00:32:28.639><c> Lom</c><00:32:29.639><c> Lom</c><00:32:30.559><c> reduzindo</c><00:32:31.559><c> 397</c><00:32:32.320><c> é</c><00:32:33.240><c> tá</c>
+[00:32:33,430] mim 397 vo Lom Lom reduzindo 397 é tá
+[00:32:33,440] mim 397 vo Lom Lom reduzindo 397 é tá
+[00:32:33,440] bem
+[00:32:36,679] baixo<00:32:37.840><c> é</c><00:32:38.840><c> aqui</c><00:32:39.000><c> à</c><00:32:39.159><c> direita</c><00:32:39.559><c> tá</c><00:32:39.720><c> limpo</c><00:32:40.000><c> tá</c>
+[00:32:40,430] baixo é aqui à direita tá limpo tá
+[00:32:40,440] baixo é aqui à direita tá limpo tá
+[00:32:40,440] visual<00:32:40.720><c> com</c><00:32:41.039><c> a</c><00:32:41.159><c> cidade</c>
+[00:32:42,950] visual com a cidade
+[00:32:42,960] visual com a cidade
+[00:32:42,960] é<00:32:43.960><c> Guarulhos</c><00:32:44.440><c> mesmo</c><00:32:44.639><c> que</c><00:32:44.720><c> tem</c><00:32:44.880><c> a</c><00:32:44.960><c> camada</c><00:32:45.760><c> do</c>
+[00:32:45,870] é Guarulhos mesmo que tem a camada do
+[00:32:45,880] é Guarulhos mesmo que tem a camada do
+[00:32:45,880] voiro
+[00:33:00,440] reduz<00:33:00.760><c> a</c><00:33:00.840><c> velocidade</c>
+[00:33:07,159] 1609<00:33:08.399><c> para</c>
+[00:33:13,360] velocidade<00:33:14.559><c> 561</c>
+[00:33:16,350] velocidade 561
+[00:33:16,360] velocidade 561
+[00:33:16,360] 7e<00:33:17.360><c> reduzindo</c><00:33:17.799><c> a</c>
+[00:33:19,509] 7e reduzindo a
+[00:33:19,519] 7e reduzindo a
+[00:33:19,519] velocidade
+[00:33:21,629] velocidade
+[00:33:21,639] velocidade
+[00:33:24,440] para<00:33:25.440><c> is</c>
+[00:33:32,000] estabilizado<00:33:32.600><c> pode</c><00:33:32.919><c> chamar</c><00:33:33.240><c> torre</c>
+[00:33:33,549] estabilizado pode chamar torre
+[00:33:33,559] estabilizado pode chamar torre
+[00:33:33,559] frequência<00:33:34.000><c> 1</c><00:33:34.200><c> 35</c><00:33:34.559><c> de</c><00:33:35.000><c> 2</c><00:33:35.760><c> gente</c><00:33:36.159><c> estabiliz</c><00:33:36.600><c> 352</c>
+[00:33:41,559] gol
+[00:33:51,679] 33<00:33:52.679><c> tor</c><00:33:53.159><c> Guarulhos</c>
+[00:33:57,919] Quebec<00:33:58.200><c> no</c><00:33:58.440><c> zer</c>
+[00:34:08,520] direita<00:34:09.520><c> 33</c><00:34:09.960><c> no</c><00:34:10.040><c> meio</c><00:34:10.520><c> São</c><00:34:10.639><c> Paulo</c><00:34:10.839><c> 2045</c><00:34:11.599><c> bom</c>
+[00:34:11,869] direita 33 no meio São Paulo 2045 bom
+[00:34:11,879] direita 33 no meio São Paulo 2045 bom
+[00:34:11,879] voo
+[00:34:13,869] voo
+[00:34:13,879] voo
+[00:34:13,879] s56<00:34:14.879><c> obrigado</c><00:34:15.159><c> bom</c>
+[00:34:16,510] s56 obrigado bom
+[00:34:16,520] s56 obrigado bom
+[00:34:16,520] dia<00:34:17.520><c> bom</c><00:34:17.800><c> dia</c><00:34:18.000><c> Torre</c><00:34:18.359><c> Guarulhos</c><00:34:18.760><c> aguarde</c>
+[00:34:19,069] dia bom dia Torre Guarulhos aguarde
+[00:34:19,079] dia bom dia Torre Guarulhos aguarde
+[00:34:19,079] autorização<00:34:19.520><c> de</c><00:34:19.639><c> pouso</c><00:34:19.919><c> no</c><00:34:20.119><c> zero</c><00:34:20.399><c> direita</c>
+[00:34:20,950] autorização de pouso no zero direita
+[00:34:20,960] autorização de pouso no zero direita
+[00:34:20,960] ajuste<00:34:21.520><c> no</c><00:34:21.960><c> 0</c><00:34:23.359><c> teto</c>
+[00:34:25,230] ajuste no 0 teto
+[00:34:25,240] ajuste no 0 teto
+[00:34:25,240] 200<00:34:26.240><c> aguardando</c><00:34:26.639><c> pouso</c><00:34:26.879><c> para</c>
+[00:34:33,879] já<00:34:34.079><c> foi</c><00:34:34.919><c> tem</c><00:34:35.119><c> caso</c>
+[00:34:38,839] detida
+[00:34:44,200] posições
+[00:34:55,520] oked<00:34:56.520><c> 11</c>
+[00:34:58,270] oked 11
+[00:34:58,280] oked 11
+[00:34:58,280] tem<00:34:58.680><c> V</c><00:34:59.680><c> Tá</c><00:34:59.839><c> Ok</c><00:35:00.160><c> nos</c><00:35:00.560><c> mínimos</c><00:35:01.079><c> então</c><00:35:01.400><c> tá</c><00:35:01.760><c> então</c>
+[00:35:02,069] tem V Tá Ok nos mínimos então tá então
+[00:35:02,079] tem V Tá Ok nos mínimos então tá então
+[00:35:02,079] fica<00:35:02.680><c> atento</c><00:35:03.160><c> quanto</c><00:35:03.520><c> ao</c>
+[00:35:05,230] fica atento quanto ao
+[00:35:05,240] fica atento quanto ao
+[00:35:05,240] al0<00:35:06.240><c> decolagem</c><00:35:06.720><c> autorizado</c><00:35:07.240><c> no</c><00:35:07.440><c> zer</c><00:35:07.680><c> esquerda</c>
+[00:35:08,270] al0 decolagem autorizado no zer esquerda
+[00:35:08,280] al0 decolagem autorizado no zer esquerda
+[00:35:08,280] autoriz<00:35:08.839><c> decolagem</c><00:35:09.240><c> go</c><00:35:09.480><c> 760</c><00:35:10.040><c> noer</c><00:35:10.400><c> esquerda</c>
+[00:35:11,030] autoriz decolagem go 760 noer esquerda
+[00:35:11,040] autoriz decolagem go 760 noer esquerda
+[00:35:11,040] go<00:35:11.400><c> no</c><00:35:12.079><c> 5</c><00:35:12.320><c> na</c><00:35:12.440><c> bravo</c><00:35:12.760><c> bravo</c><00:35:13.079><c> mantenha</c><00:35:13.480><c> antes</c><00:35:13.760><c> da</c>
+[00:35:13,870] go no 5 na bravo bravo mantenha antes da
+[00:35:13,880] go no 5 na bravo bravo mantenha antes da
+[00:35:13,880] bar
+[00:35:16,839] autorização<00:35:17.839><c> possí</c><00:35:18.200><c> a</c><00:35:18.280><c> gente</c><00:35:18.440><c> vai</c>
+[00:35:21,240] ver<00:35:22.240><c> ok</c>
+[00:35:24,069] ver ok
+[00:35:24,079] ver ok
+[00:35:24,079] obrigada<00:35:25.079><c> a</c><00:35:25.160><c> informação</c><00:35:25.520><c> do</c><00:35:25.640><c> trfego</c><00:35:26.119><c> FR</c><00:35:26.560><c> é</c>
+[00:35:26,950] obrigada a informação do trfego FR é
+[00:35:26,960] obrigada a informação do trfego FR é
+[00:35:26,960] negativo<00:35:27.320><c> poderia</c><00:35:27.760><c> confirmar</c><00:35:28.320><c> avistou</c><00:35:28.880><c> nos</c>
+[00:35:29,069] negativo poderia confirmar avistou nos
+[00:35:29,079] negativo poderia confirmar avistou nos
+[00:35:29,079] mínimos<00:35:29.720><c> categoria</c><00:35:30.079><c> dois</c><00:35:30.359><c> Ok</c><00:35:30.680><c> o</c><00:35:30.760><c> ajuste</c><00:35:31.040><c> 1</c><00:35:31.320><c> 09</c>
+[00:35:31,910] mínimos categoria dois Ok o ajuste 1 09
+[00:35:31,920] mínimos categoria dois Ok o ajuste 1 09
+[00:35:31,920] uma<00:35:32.119><c> centena</c><00:35:32.400><c> 1</c><00:35:32.760><c> 09</c><00:35:33.240><c> pouso</c><00:35:33.520><c> autorizado</c><00:35:33.920><c> no</c><00:35:34.160><c> zer</c>
+[00:35:34,670] uma centena 1 09 pouso autorizado no zer
+[00:35:34,680] uma centena 1 09 pouso autorizado no zer
+[00:35:34,680] direita<00:35:35.680><c> quem</c><00:35:36.240><c> tá</c><00:35:36.359><c> cente</c><00:35:36.640><c> das</c><00:35:36.760><c> condições</c>
+[00:35:37,150] direita quem tá cente das condições
+[00:35:37,160] direita quem tá cente das condições
+[00:35:37,160] autorizar<00:35:37.480><c> o</c><00:35:37.560><c> pouso</c><00:35:37.760><c> no</c><00:35:37.880><c> zero</c><00:35:38.119><c> direito</c><00:35:38.440><c> Golf</c>
+[00:35:39,030] autorizar o pouso no zero direito Golf
+[00:35:39,040] autorizar o pouso no zero direito Golf
+[00:35:39,040] Ok<00:35:39.400><c> tan</c><00:35:39.720><c> 454</c><00:35:40.480><c> correção</c><00:35:41.000><c> tan</c><00:35:41.359><c> 3540</c><00:35:42.359><c> Bom</c><00:35:42.480><c> dia</c><00:35:42.599><c> al</c>
+[00:35:42,829] Ok tan 454 correção tan 3540 Bom dia al
+[00:35:42,839] Ok tan 454 correção tan 3540 Bom dia al
+[00:35:42,839] mant<00:35:43.119><c> no</c><00:35:43.240><c> zero</c><00:35:43.400><c> esquerdao</c><00:35:43.920><c> Bom</c><00:35:44.240><c> dia</c><00:35:44.359><c> ali</c>
+[00:35:44,870] mant no zero esquerdao Bom dia ali
+[00:35:44,880] mant no zero esquerdao Bom dia ali
+[00:35:44,880] mantenham<00:35:45.359><c> no</c><00:35:45.480><c> zero</c><00:35:45.680><c> esquerdo</c><00:35:46.000><c> tá</c><00:35:46.240><c> 35</c><00:35:46.680><c> 40</c>
+[00:35:58,040] no<00:35:58.119><c> meiao</c><00:35:58.599><c> C</c><00:35:58.839><c> bravo</c><00:35:59.119><c> bravo</c><00:35:59.520><c> Cruze</c><00:36:00.400><c> esquerda</c><00:36:00.960><c> o</c>
+[00:36:01,069] no meiao C bravo bravo Cruze esquerda o
+[00:36:01,079] no meiao C bravo bravo Cruze esquerda o
+[00:36:01,079] cruzamento<00:36:01.560><c> mantenha</c><00:36:02.040><c> antes</c><00:36:02.319><c> do</c><00:36:02.480><c> Bravo</c><00:36:02.839><c> chama</c>
+[00:36:03,109] cruzamento mantenha antes do Bravo chama
+[00:36:03,119] cruzamento mantenha antes do Bravo chama
+[00:36:03,119] solo<00:36:03.319><c> 2</c><00:36:03.560><c> me</c>
+[00:36:04,790] solo 2 me
+[00:36:04,800] solo 2 me
+[00:36:04,800] decimal<00:36:05.800><c> na</c><00:36:06.040><c> bravo</c><00:36:06.359><c> bravo</c><00:36:06.880><c> cruza</c><00:36:07.119><c> a</c><00:36:07.440><c> 1</c><00:36:07.839><c> z0</c>
+[00:36:08,349] decimal na bravo bravo cruza a 1 z0
+[00:36:08,359] decimal na bravo bravo cruza a 1 z0
+[00:36:08,359] esquerda<00:36:09.359><c> mantém</c><00:36:09.720><c> a</c><00:36:09.800><c> bravo</c><00:36:10.119><c> bravo</c><00:36:10.560><c> antes</c>
+[00:36:10,829] esquerda mantém a bravo bravo antes
+[00:36:10,839] esquerda mantém a bravo bravo antes
+[00:36:10,839] chama<00:36:11.240><c> antes</c><00:36:11.480><c> da</c><00:36:11.599><c> bravo</c><00:36:11.880><c> bravo</c><00:36:12.119><c> chama</c><00:36:12.280><c> 269</c><00:36:12.920><c> gol</c>
+[00:36:13,150] chama antes da bravo bravo chama 269 gol
+[00:36:13,160] chama antes da bravo bravo chama 269 gol
+[00:36:13,160] no<00:36:13.319><c> menos</c><00:36:14.000><c> isso</c><00:36:14.280><c> antes</c><00:36:14.640><c> da</c><00:36:14.800><c> Bravo</c>
+[00:36:21,520] positivo<00:36:22.520><c> go</c><00:36:23.000><c> 76</c><00:36:23.520><c> 80</c><00:36:24.040><c> chame</c><00:36:24.400><c> São</c><00:36:24.520><c> Paulo</c><00:36:24.720><c> 2045</c>
+[00:36:25,630] positivo go 76 80 chame São Paulo 2045
+[00:36:25,640] positivo go 76 80 chame São Paulo 2045
+[00:36:25,640] bom<00:36:25.839><c> voo</c><00:36:26.359><c> 2045</c><00:36:27.280><c> obrigado</c><00:36:27.640><c> bom</c><00:36:27.839><c> dia</c><00:36:28.240><c> bom</c>
+[00:36:30,190] bom voo 2045 obrigado bom dia bom
+[00:36:30,200] bom voo 2045 obrigado bom dia bom
+[00:36:30,200] dia<00:36:31.200><c> S</c><00:36:31.960><c> Guarulhos</c><00:36:32.440><c> uma</c><00:36:32.599><c> boa</c><00:36:33.160><c> 3397</c><00:36:34.160><c> final</c><00:36:34.440><c> ils</c>
+[00:36:35,430] dia S Guarulhos uma boa 3397 final ils
+[00:36:35,440] dia S Guarulhos uma boa 3397 final ils
+[00:36:35,440] da<00:36:35.640><c> direita</c><00:36:36.440><c> B</c><00:36:37.079><c> 3397</c><00:36:38.079><c> tor</c><00:36:38.400><c> guarulos</c><00:36:38.760><c> agora</c>
+[00:36:39,069] da direita B 3397 tor guarulos agora
+[00:36:39,079] da direita B 3397 tor guarulos agora
+[00:36:39,079] autorização<00:36:39.599><c> de</c><00:36:39.680><c> pouso</c><00:36:39.960><c> pist</c><00:36:40.319><c> no</c><00:36:40.440><c> zer</c><00:36:40.680><c> direita</c>
+[00:36:41,109] autorização de pouso pist no zer direita
+[00:36:41,119] autorização de pouso pist no zer direita
+[00:36:41,119] J<00:36:41.480><c> no</c><00:36:41.960><c> 09</c><00:36:42.960><c> no</c>
+[00:36:44,870] J no 09 no
+[00:36:44,880] J no 09 no
+[00:36:47,400] Ok<00:36:48.400><c> tem</c><00:36:48.560><c> nove</c><00:36:48.800><c> de</c><00:36:48.960><c> proa</c><00:36:49.319><c> três</c><00:36:49.680><c> de</c><00:36:49.800><c> esquerda</c><00:36:50.680><c> BRF</c>
+[00:36:51,230] Ok tem nove de proa três de esquerda BRF
+[00:36:51,240] Ok tem nove de proa três de esquerda BRF
+[00:36:51,240] mais<00:36:51.560><c> do</c>
+[00:37:04,760] 3<00:37:05.760><c> visual</c><00:37:06.119><c> comss</c><00:37:07.000><c> visual</c><00:37:07.359><c> prossegue</c><00:37:07.760><c> ling</c>
+[00:37:13,319] ok<00:37:14.319><c> ail</c>
+[00:37:37,000] 35<00:37:37.520><c> 40</c><00:37:38.200><c> vento</c><00:37:38.560><c> 090</c><00:37:39.280><c> gra</c><00:37:39.560><c> 99</c><00:37:40.079><c> decolagem</c>
+[00:37:40,470] 35 40 vento 090 gra 99 decolagem
+[00:37:40,480] 35 40 vento 090 gra 99 decolagem
+[00:37:40,480] autorizada<00:37:40.880><c> pisto</c><00:37:41.200><c> no</c><00:37:41.319><c> zero</c>
+[00:37:42,349] autorizada pisto no zero
+[00:37:42,359] autorizada pisto no zero
+[00:37:42,359] esquerda<00:37:43.359><c> decolagem</c><00:37:44.000><c> 10</c><00:37:44.440><c> da</c><00:37:44.640><c> esquerda</c>
+[00:37:49,839] 3540<00:37:50.839><c> livra</c><00:37:51.480><c> próxima</c><00:37:51.920><c> direita</c><00:37:52.240><c> Na</c><00:37:52.520><c> tango</c><00:37:52.920><c> após</c>
+[00:37:53,270] 3540 livra próxima direita Na tango após
+[00:37:53,280] 3540 livra próxima direita Na tango após
+[00:37:53,280] livrar<00:37:53.560><c> ch</c><00:37:53.839><c> solo</c><00:37:54.079><c> 26</c><00:37:54.440><c> de</c><00:37:55.440><c> direita</c><00:37:55.760><c> tango</c><00:37:56.040><c> 269</c>
+[00:37:56,750] livrar ch solo 26 de direita tango 269
+[00:37:56,760] livrar ch solo 26 de direita tango 269
+[00:37:56,760] Bom<00:37:56.920><c> dia</c>
+[00:38:08,680] Guarulhos<00:38:09.680><c> muito</c><00:38:09.880><c> bom</c>
+[00:38:16,040] dia<00:38:17.040><c> Serra</c><00:38:17.720><c> 12</c><00:38:18.359><c> Golf</c>
+[00:38:31,160] o<00:38:32.160><c> 2</c>
+[00:38:37,119] no<00:38:38.119><c> mas</c><00:38:38.680><c> bem</c><00:38:38.880><c> didático</c><00:38:39.359><c> bem</c><00:38:39.520><c> simulador</c><00:38:40.000><c> mesmo</c>
+[00:38:40,630] no mas bem didático bem simulador mesmo
+[00:38:40,640] no mas bem didático bem simulador mesmo
+[00:38:40,640] hein<00:38:41.640><c> mesmas</c><00:38:42.079><c> condições</c><00:38:42.520><c> o</c>
+[00:38:43,589] hein mesmas condições o
+[00:38:43,599] hein mesmas condições o
+[00:38:43,599] 161<00:38:44.599><c> a</c><00:38:44.680><c> gente</c><00:38:44.839><c> fala</c><00:38:45.000><c> bem</c><00:38:45.240><c> simulador</c><00:38:45.680><c> porque</c><00:38:46.440><c> no</c>
+[00:38:46,670] 161 a gente fala bem simulador porque no
+[00:38:46,680] 161 a gente fala bem simulador porque no
+[00:38:46,680] treinamento<00:38:47.200><c> simulador</c><00:38:48.000><c> os</c><00:38:48.160><c> instrutores</c>
+[00:38:48,630] treinamento simulador os instrutores
+[00:38:48,640] treinamento simulador os instrutores
+[00:38:48,640] geralmente<00:38:49.000><c> colocam</c><00:38:49.800><c> nos</c><00:38:50.119><c> mínimos</c><00:38:50.520><c> dos</c>
+[00:38:50,829] geralmente colocam nos mínimos dos
+[00:38:50,839] geralmente colocam nos mínimos dos
+[00:38:50,839] procedimentos<00:38:51.440><c> pra</c><00:38:51.640><c> gente</c><00:38:51.800><c> treinar</c>
+[00:38:52,069] procedimentos pra gente treinar
+[00:38:52,079] procedimentos pra gente treinar
+[00:38:52,079] justamente<00:38:52.400><c> arremetidas</c><00:38:52.920><c> né</c><00:38:53.599><c> justamente</c><00:38:53.920><c> em</c>
+[00:38:54,069] justamente arremetidas né justamente em
+[00:38:54,079] justamente arremetidas né justamente em
+[00:38:54,079] Guarulhos<00:38:54.480><c> né</c><00:38:55.079><c> em</c><00:38:55.200><c> Guarulhos</c><00:38:55.599><c> é</c><00:38:55.720><c> o</c><00:38:55.800><c> cenário</c><00:38:56.079><c> do</c>
+[00:38:56,190] Guarulhos né em Guarulhos é o cenário do
+[00:38:56,200] Guarulhos né em Guarulhos é o cenário do
+[00:38:56,200] simulador<00:38:56.599><c> que</c><00:38:56.680><c> a</c><00:38:56.760><c> gente</c><00:38:56.920><c> faz</c><00:38:57.079><c> é</c><00:38:57.760><c> muito</c>
+[00:38:58,589] simulador que a gente faz é muito
+[00:38:58,599] simulador que a gente faz é muito
+[00:38:58,599] Guar<00:38:59.599><c> a</c><00:38:59.720><c> gente</c><00:38:59.920><c> tá</c><00:39:00.000><c> bem</c><00:39:00.119><c> habituado</c><00:39:00.599><c> essas</c>
+[00:39:00,829] Guar a gente tá bem habituado essas
+[00:39:00,839] Guar a gente tá bem habituado essas
+[00:39:00,839] condições<00:39:01.520><c> é</c><00:39:02.119><c> então</c><00:39:03.000><c> tá</c><00:39:03.119><c> aí</c><00:39:03.280><c> ó</c><00:39:03.680><c> ficou</c><00:39:04.680><c> um</c><00:39:04.880><c> vídeo</c>
+[00:39:05,109] condições é então tá aí ó ficou um vídeo
+[00:39:05,119] condições é então tá aí ó ficou um vídeo
+[00:39:05,119] bem<00:39:05.440><c> legal</c><00:39:05.960><c> vistamos</c><00:39:06.520><c> nos</c>
+[00:39:07,910] bem legal vistamos nos
+[00:39:07,920] bem legal vistamos nos
+[00:39:07,920] mínimos<00:39:08.920><c> realmente</c><00:39:09.480><c> quando</c><00:39:09.800><c> atingiu</c><00:39:10.319><c> 200</c><00:39:11.160><c> pés</c>
+[00:39:11,829] mínimos realmente quando atingiu 200 pés
+[00:39:11,839] mínimos realmente quando atingiu 200 pés
+[00:39:11,839] cantou<00:39:12.240><c> mínimos</c><00:39:12.800><c> a</c><00:39:13.440><c> gente</c><00:39:14.319><c> teve</c><00:39:14.680><c> contato</c>
+[00:39:14,950] cantou mínimos a gente teve contato
+[00:39:14,960] cantou mínimos a gente teve contato
+[00:39:14,960] visual<00:39:15.280><c> com</c><00:39:15.400><c> as</c><00:39:15.599><c> luzes</c><00:39:15.920><c> antes</c><00:39:16.599><c> da</c><00:39:16.720><c> pista</c><00:39:16.920><c> que</c>
+[00:39:17,030] visual com as luzes antes da pista que
+[00:39:17,040] visual com as luzes antes da pista que
+[00:39:17,040] chama<00:39:17.200><c> als</c>
+[00:39:19,870] chama als
+[00:39:19,880] chama als
+[00:39:19,880] né<00:39:21.280><c> SY</c><00:39:22.280><c> E</c><00:39:23.119><c> aí</c><00:39:23.400><c> a</c><00:39:23.480><c> gente</c><00:39:23.720><c> então</c><00:39:24.240><c> prossegue</c><00:39:24.680><c> o</c>
+[00:39:25,109] né SY E aí a gente então prossegue o
+[00:39:25,119] né SY E aí a gente então prossegue o
+[00:39:25,119] pouso<00:39:25.520><c> dali</c><00:39:25.760><c> pra</c><00:39:25.960><c> frente</c><00:39:26.359><c> caso</c><00:39:26.599><c> não</c>
+[00:39:26,750] pouso dali pra frente caso não
+[00:39:26,760] pouso dali pra frente caso não
+[00:39:26,760] tivéssemos<00:39:27.480><c> avistado</c><00:39:28.359><c> o</c><00:39:28.640><c> als</c><00:39:29.200><c> ou</c><00:39:29.359><c> a</c><00:39:29.520><c> pista</c>
+[00:39:30,030] tivéssemos avistado o als ou a pista
+[00:39:30,040] tivéssemos avistado o als ou a pista
+[00:39:30,040] daquele<00:39:30.640><c> ponto</c><00:39:30.880><c> ali</c><00:39:31.079><c> nós</c><00:39:31.240><c> teríamos</c><00:39:31.560><c> que</c><00:39:31.680><c> Ter</c>
+[00:39:31,750] daquele ponto ali nós teríamos que Ter
+[00:39:31,760] daquele ponto ali nós teríamos que Ter
+[00:39:31,760] iniciado
+[00:39:36,880] remida<00:39:37.880><c> Guarulhos</c><00:39:38.880><c> 4523</c><00:39:39.839><c> posição</c><00:39:40.160><c> 305</c>
+[00:39:41,150] remida Guarulhos 4523 posição 305
+[00:39:41,160] remida Guarulhos 4523 posição 305
+[00:39:41,160] pushback<00:39:41.680><c> acionamento</c><00:39:42.480><c> gente</c>
+[00:39:45,800] aguardando<00:39:46.800><c> tivemos</c><00:39:47.200><c> um</c><00:39:47.480><c> total</c><00:39:47.760><c> de</c><00:39:47.880><c> 25</c>
+[00:39:48,470] aguardando tivemos um total de 25
+[00:39:48,480] aguardando tivemos um total de 25
+[00:39:48,480] minutos<00:39:49.079><c> de</c><00:39:49.240><c> vo</c><00:39:49.720><c> né</c><00:39:50.720><c> é</c><00:39:50.800><c> o</c><00:39:51.680><c> é</c><00:39:51.920><c> o</c><00:39:52.040><c> vo</c><00:39:52.319><c> é</c><00:39:52.400><c> o</c><00:39:52.520><c> curto</c>
+[00:39:52,829] minutos de vo né é o é o vo é o curto
+[00:39:52,839] minutos de vo né é o é o vo é o curto
+[00:39:52,839] voo<00:39:53.079><c> longo</c>
+[00:39:53,910] voo longo
+[00:39:53,920] voo longo
+[00:39:53,920] né<00:39:54.920><c> o</c><00:39:55.040><c> voo</c><00:39:55.280><c> longo</c><00:39:55.560><c> curto</c><00:39:56.319><c> curto</c><00:39:56.560><c> voo</c><00:39:56.760><c> longo</c>
+[00:39:58,150] né o voo longo curto curto voo longo
+[00:39:58,160] né o voo longo curto curto voo longo
+[00:39:58,160] mas<00:39:58.480><c> pessoal</c><00:39:58.760><c> do</c><00:39:58.839><c> controle</c><00:39:59.119><c> agilizou</c>
+[00:40:00,030] mas pessoal do controle agilizou
+[00:40:00,040] mas pessoal do controle agilizou
+[00:40:00,040] bastante<00:40:01.040><c> foi</c><00:40:01.160><c> bom</c><00:40:01.280><c> PR</c><00:40:01.359><c> caramba</c><00:40:01.960><c> é</c><00:40:02.040><c> negativo</c>
+[00:40:02,430] bastante foi bom PR caramba é negativo
+[00:40:02,440] bastante foi bom PR caramba é negativo
+[00:40:02,440] ainda<00:40:02.880><c> ainda</c><00:40:03.079><c> não</c><00:40:03.319><c> está</c><00:40:03.480><c> pronto</c><00:40:03.720><c> tá</c><00:40:04.000><c> 33</c><00:40:04.560><c> 30</c><00:40:05.079><c> C</c>
+[00:40:05,710] ainda ainda não está pronto tá 33 30 C
+[00:40:05,720] ainda ainda não está pronto tá 33 30 C
+[00:40:05,720] vou<00:40:06.119><c> no</c><00:40:06.200><c> 448</c><00:40:06.880><c> no</c><00:40:07.000><c> 31</c><00:40:07.520><c> autorizado</c><00:40:07.920><c> reporte</c>
+[00:40:08,190] vou no 448 no 31 autorizado reporte
+[00:40:08,200] vou no 448 no 31 autorizado reporte
+[00:40:08,200] Pronto<00:40:08.599><c> alizador</c><00:40:09.040><c> está</c><00:40:09.200><c> vindo</c><00:40:09.480><c> autorizado</c>
+[00:40:10,069] Pronto alizador está vindo autorizado
+[00:40:10,079] Pronto alizador está vindo autorizado
+[00:40:10,079] vai<00:40:10.160><c> reportar</c>
+[00:40:11,710] vai reportar
+[00:40:11,720] vai reportar
+[00:40:11,720] fazend<00:40:12.720><c> 4523</c><00:40:13.400><c> coordena</c><00:40:13.720><c> com</c><00:40:13.880><c> P</c><00:40:14.280><c> 305</c>
+[00:40:14,829] fazend 4523 coordena com P 305
+[00:40:14,839] fazend 4523 coordena com P 305
+[00:40:14,839] autorizado<00:40:15.839><c> para</c><00:40:15.920><c> o</c>
+[00:40:18,200] tax<00:40:19.200><c> confirmar</c><00:40:19.520><c> autorização</c><00:40:19.880><c> foi</c><00:40:20.599><c> 4523</c>
+[00:40:21,589] tax confirmar autorização foi 4523
+[00:40:21,599] tax confirmar autorização foi 4523
+[00:40:21,599] afirmo<00:40:22.000><c> coordena</c><00:40:22.400><c> comp</c><00:40:22.800><c> autorizado</c><00:40:23.160><c> ch</c>
+[00:40:23,470] afirmo coordena comp autorizado ch
+[00:40:23,480] afirmo coordena comp autorizado ch
+[00:40:23,480] pronto<00:40:23.640><c> para</c><00:40:23.720><c> o</c><00:40:23.800><c> tax</c><00:40:24.839><c> 4523</c><00:40:25.839><c> na</c><00:40:26.000><c> 305</c><00:40:26.480><c> autorizado</c>
+[00:40:27,670] pronto para o tax 4523 na 305 autorizado
+[00:40:27,680] pronto para o tax 4523 na 305 autorizado
+[00:40:27,680] chama<00:40:28.680><c> se</c><00:40:29.079><c> posicionar</c><00:40:30.079><c> sola</c><00:40:30.440><c> barulhos</c><00:40:30.920><c> uma</c>
+[00:40:31,109] chama se posicionar sola barulhos uma
+[00:40:31,119] chama se posicionar sola barulhos uma
+[00:40:31,119] bota
+[00:40:32,550] bota
+[00:40:32,560] bota
+[00:40:32,560] 453<00:40:33.560><c> 1</c><00:40:34.440><c> para</c><00:40:34.599><c> pushback</c><00:40:35.000><c> acionamento</c>
+[00:40:36,950] 453 1 para pushback acionamento
+[00:40:36,960] 453 1 para pushback acionamento
+[00:40:36,960] 453<00:40:37.960><c> autorizado</c><00:40:38.440><c> reporte</c><00:40:38.760><c> pronto</c><00:40:38.960><c> para</c><00:40:39.040><c> o</c>
+[00:40:39,109] 453 autorizado reporte pronto para o
+[00:40:39,119] 453 autorizado reporte pronto para o
+[00:40:39,119] táxi<00:40:39.800><c> autorizado</c><00:40:40.319><c> reportará</c><00:40:40.839><c> pronto</c><00:40:41.040><c> pro</c>
+[00:40:41,230] táxi autorizado reportará pronto pro
+[00:40:41,240] táxi autorizado reportará pronto pro
+[00:40:41,240] táxi
+[00:40:42,710] táxi
+[00:40:42,720] táxi
+[00:40:42,720] 4531<00:40:43.720><c> no</c><00:40:43.880><c> Men</c><00:40:44.119><c> 5</c><00:40:44.280><c> está</c><00:40:44.440><c> aguardando</c><00:40:44.800><c> liberação</c>
+[00:40:45,069] 4531 no Men 5 está aguardando liberação
+[00:40:45,079] 4531 no Men 5 está aguardando liberação
+[00:40:45,079] do<00:40:45.160><c> 306</c><00:40:45.760><c> ainda</c><00:40:46.000><c> ocupado</c><00:40:46.599><c> s</c><00:40:47.599><c> no</c><00:40:47.760><c> Men</c><00:40:48.079><c> 5</c>
+[00:41:04,560] sal<00:41:05.000><c> Guarulhos</c><00:41:05.480><c> uma</c>
+[00:41:07,030] sal Guarulhos uma
+[00:41:07,040] sal Guarulhos uma
+[00:41:07,040] bo7<00:41:08.040><c> ingressou</c><00:41:09.240><c> 250</c><00:41:10.240><c> gastou</c><00:41:10.440><c> pouco</c><00:41:10.760><c> heem</c><00:41:11.760><c> Ruz</c>
+[00:41:12,550] bo7 ingressou 250 gastou pouco heem Ruz
+[00:41:12,560] bo7 ingressou 250 gastou pouco heem Ruz
+[00:41:12,560] nvo<00:41:13.560><c> vai</c><00:41:13.680><c> manter</c><00:41:14.040><c> antes</c><00:41:14.280><c> da</c><00:41:14.440><c> jul</c>
+[00:41:37,520] 1<00:41:38.040><c> Men</c><00:41:38.400><c> 5</c><00:41:39.240><c> í</c><00:41:39.520><c> e</c><00:41:39.640><c> Alfa</c><00:41:39.839><c> na</c><00:41:39.920><c> Alfa</c><00:41:40.160><c> de</c>
+[00:41:41,270] 1 Men 5 í e Alfa na Alfa de
+[00:41:41,280] 1 Men 5 í e Alfa na Alfa de
+[00:41:41,280] Hotel<00:41:42.280><c> Alfa</c><00:41:42.680><c> na</c><00:41:42.839><c> Alfa</c><00:41:43.119><c> de</c>
+[00:41:48,280] Hotel<00:41:49.560><c> Sol</c><00:41:50.960><c> 333</c><00:41:51.960><c> Agora</c><00:41:52.160><c> sim</c><00:41:52.599><c> pronto</c><00:41:52.839><c> pro</c>
+[00:41:53,190] Hotel Sol 333 Agora sim pronto pro
+[00:41:53,200] Hotel Sol 333 Agora sim pronto pro
+[00:41:53,200] pushback<00:41:53.680><c> acionamento</c><00:41:54.160><c> novamente</c><00:41:54.720><c> certeiro</c>
+[00:41:56,230] pushback acionamento novamente certeiro
+[00:41:56,240] pushback acionamento novamente certeiro
+[00:41:56,240] será<00:41:57.280><c> não</c><00:41:57.640><c> aguarda</c><00:41:58.000><c> Ok</c><00:41:58.599><c> aguarda</c><00:41:59.040><c> do</c>
+[00:42:00,190] será não aguarda Ok aguarda do
+[00:42:00,200] será não aguarda Ok aguarda do
+[00:42:00,200] 3330<00:42:01.200><c> tá</c><00:42:02.000><c> bom</c><00:42:02.160><c> de</c><00:42:02.359><c> mira</c><00:42:02.960><c> orora</c><00:42:03.960><c> tem</c><00:42:04.079><c> que</c>
+[00:42:04,150] 3330 tá bom de mira orora tem que
+[00:42:04,160] 3330 tá bom de mira orora tem que
+[00:42:04,160] aprender
+[00:42:10,599] né<00:42:11.599><c> cortando</c><00:42:12.240><c> o</c><00:42:12.359><c> motor</c>
+[00:42:15,200] dois<00:42:16.200><c> guardar</c><00:42:16.599><c> um</c><00:42:16.680><c> pouquinho</c><00:42:16.960><c> pro</c><00:42:17.160><c> um</c><00:42:17.359><c> aqui</c>
+[00:42:17,430] dois guardar um pouquinho pro um aqui
+[00:42:17,440] dois guardar um pouquinho pro um aqui
+[00:42:17,440] que<00:42:17.599><c> eu</c><00:42:17.720><c> acelerei</c><00:42:18.119><c> bastante</c><00:42:18.440><c> ele</c>
+[00:42:51,079] 34<00:42:52.079><c> a</c>
+[00:42:57,640] gavo<00:42:57.960><c> Carleto</c><00:42:58.319><c> Muito</c><00:42:58.480><c> obrigado</c><00:42:58.760><c> aí</c><00:42:59.400><c> excelente</c>
+[00:42:59,910] gavo Carleto Muito obrigado aí excelente
+[00:42:59,920] gavo Carleto Muito obrigado aí excelente
+[00:42:59,920] operação<00:43:00.920><c> e</c><00:43:01.119><c> até</c><00:43:01.359><c> o</c><00:43:01.520><c> próximo</c><00:43:01.920><c> vídeo</c><00:43:02.200><c> galera</c>
+[00:43:06,590] [Música]
+[00:43:27,240] k
+[00:43:29,600] k
+[00:43:29,610] k
+[00:43:29,610] [Música]
+[00:43:51,720] [Música]
+[00:43:57,230] [Música]
+[00:43:57,240] [Música]
+[00:43:57,240] k
+[00:43:59,430] k
+[00:43:59,440] k
+[00:43:59,440] [Música]
+[00:44:06,100] [Música]
+[00:44:17,010] [Música]
+[00:44:27,240] k
+[00:44:33,820] [Aplausos]
+[00:44:34,870] [Aplausos]
+[00:44:34,880] [Aplausos]
+[00:44:34,880] [Música]
+[00:45:17,490] [Música]
+[00:45:33,030] [Aplausos]
+[00:45:42,180] [Música]
