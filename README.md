@@ -69,7 +69,7 @@ Este projeto utiliza [Poetry](https://python-poetry.org/) como gerenciador de de
 
 ## 🤝 Contribuindo
 
-Este projeto está em fase experimental, mas pretende-se evoluir para uma ferramenta de código aberto, por fazer parte de uma pesquisa fomentada pela FAPESP. Além disso, os resultados do uso seram publicados através de dissertações e artigos.
+Este projeto está em fase experimental, mas pretende-se evoluir para uma ferramenta de código aberto, por fazer parte de uma pesquisa fomentada pela FAPESP. Além disso, os resultados do uso serão publicados através de dissertações e artigos.
 
 ---
 

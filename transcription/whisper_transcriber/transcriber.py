@@ -3,10 +3,11 @@ from pathlib import Path
 from datetime import datetime
 import json
 import time
+from slugify import slugify
 
 
-class Transcriber:
-    def __init__(self, model_size="turbo", output_dir="data/transcriptions"):
+class WhisperTranscriber:
+    def __init__(self, model_size, output_dir="data/transcriptions/youtube/voo_phemon"):
         self.model = whisper.load_model(model_size)
         self.model_size = model_size
         self.output_dir = Path(__file__).resolve().parent.parent / output_dir
@@ -19,7 +20,7 @@ class Transcriber:
         user_id: str = "default_user",
         session_id: str = "default_session",
         channel: str = "mixed",
-        language: str = "pt"
+        language: str = None
     ) -> Path:
 
         wav_path = wav_path.resolve()
@@ -31,9 +32,7 @@ class Transcriber:
 
         start_time = time.time()
         result = self.model.transcribe(str(wav_path), language=language)
-        end_time = time.time()
-
-        duration = end_time - start_time
+        duration = time.time() - start_time
         print(f"🕒 Transcrição concluída em {duration:.2f} segundos")
 
         data = {
@@ -53,7 +52,7 @@ class Transcriber:
         output_path = self.output_dir / user_id / session_id
         output_path.mkdir(parents=True, exist_ok=True)
 
-        file_name = f"{scenario}_{channel}_transcription.json"
+        file_name = f"{slugify(scenario)}_{channel}_transcription.json"
         final_path = output_path / file_name
 
         with open(final_path, "w", encoding="utf-8") as f:

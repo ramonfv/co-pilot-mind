@@ -61,10 +61,11 @@ webrtcvad = "2.0.10"
 zope-interface = "7.2"
 zstandard = "0.23.0"
 openai-whisper = { git = "https://github.com/openai/whisper.git" }
+yt-dlp = "^2025.3.31"
 torch = "2.5.1"
 torchvision = "0.20.1"
 torchaudio = "2.5.1"
-yt-dlp = "^2025.3.31"
+python-slugify = "^8.0.4"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
