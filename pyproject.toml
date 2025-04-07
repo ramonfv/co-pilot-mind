@@ -66,6 +66,9 @@ torchvision = "0.20.1"
 torchaudio = "2.5.1"
 python-slugify = "^8.0.4"
 
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
