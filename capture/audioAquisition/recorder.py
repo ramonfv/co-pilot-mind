@@ -6,6 +6,7 @@ import webrtcvad
 import sounddevice as sd
 import soundfile as sf
 import numpy as np
+from datetime import datetime
 
 
 
@@ -103,17 +104,18 @@ class UserMicRecorder:
         
 
 class SystemAudioRecorder:
-    def __init__(self, user_id, session_id, scenario, config, device):
+    def __init__(self, user_id, session_id, scenario, config, device, channel_name):
         self.user_id = user_id
         self.session_id = session_id
         self.scenario = scenario
         self.config = config
         self.device = device  # deve ser o índice do dispositivo loopback
+        self.channel_name = channel_name
         self.q_audio = queue.Queue()
         self.frames = []
-        self.folder = f"capture/audio_data/{self.user_id}/{self.session_id}/system"
+        self.folder = f"audio_data/{user_id}/{session_id}/{scenario}/{channel_name}"
         os.makedirs(self.folder, exist_ok=True)
-        self.output_wav = os.path.join(self.folder, f"{self.session_id}_system.wav")
+        self.output_wav = os.path.join(self.folder, f"{session_id}_{channel_name}.wav")
 
     def _callback(self, indata, frames, time, status):
         if status:

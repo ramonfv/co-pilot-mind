@@ -57,31 +57,31 @@ def main():
 
 
     mic_recorder = UserMicRecorder(user_id, session_id, scenario, cfg)
-    system_recorder = SystemAudioRecorder(user_id, session_id, scenario, cfg, device=loopback_device_index)
+    # system_recorder = SystemAudioRecorder(user_id, session_id, scenario, cfg, device=loopback_device_index)
 
     t1 = Thread(target=mic_recorder.record_with_vad, args=(stop_event,))
-    t2 = Thread(target=system_recorder.record_continuous, args=(stop_event,))
+    # t2 = Thread(target=system_recorder.record_continuous, args=(stop_event,))
 
     try:
         t1.start()
-        t2.start()
+        # t2.start()
 
-        while t1.is_alive() or t2.is_alive():
+        while t1.is_alive():
             t1.join(timeout=0.1)
-            t2.join(timeout=0.1)
+            # t2.join(timeout=0.1)
 
     except KeyboardInterrupt:
         print("\n⏹️ Ctrl+C detectado. Parando gravação...")
         stop_event.set()
         t1.join()
-        t2.join()
+        # t2.join()
 
 
     mic_audio_path = mic_recorder.save_audio()
-    sys_audio_path = system_recorder.save_audio()
+    # sys_audio_path = system_recorder.save_audio()
 
     MetadataLogger(user_id, session_id, scenario + " (mic)", mic_audio_path).save()
-    MetadataLogger(user_id, session_id, scenario + " (system)", sys_audio_path).save()
+    # MetadataLogger(user_id, session_id, scenario + " (system)", sys_audio_path).save()
 
 
 if __name__ == "__main__":
