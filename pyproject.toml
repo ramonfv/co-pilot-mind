@@ -60,7 +60,6 @@ virtualenv = "20.30.0"
 webrtcvad = "2.0.10"
 zope-interface = "7.2"
 zstandard = "0.23.0"
-openai-whisper = { git = "https://github.com/openai/whisper.git" }
 yt-dlp = "^2025.3.31"
 torch = "2.5.1"
 torchvision = "0.20.1"
