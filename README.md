@@ -58,7 +58,7 @@ Este projeto utiliza [Poetry](https://python-poetry.org/) como gerenciador de de
 
 - Crie o ambiente virtual: 
   ```bash
-  pip install poetry
+   poetry install
   ```
 
 - Ative o ambiente virtual:
