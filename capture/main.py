@@ -46,12 +46,12 @@ def main():
     scenario = sanitize_filename(input("Scenario: ").strip())
     cfg = load_config()
 
-    loopback_device_index, device_name = find_vbcable_device()
+    # loopback_device_index, device_name = find_vbcable_device()
 
-    if loopback_device_index is None:
-        print("❌ Dispositivo 'CABLE Output' não encontrado. Verifique a instalação do VB-Cable.")
-        return
-    print(f"✅ Dispositivo VB-Cable detectado: {device_name} (index {loopback_device_index})")
+    # if loopback_device_index is None:
+    #     print("❌ Dispositivo 'CABLE Output' não encontrado. Verifique a instalação do VB-Cable.")
+    #     return
+    # print(f"✅ Dispositivo VB-Cable detectado: {device_name} (index {loopback_device_index})")
 
 
 
