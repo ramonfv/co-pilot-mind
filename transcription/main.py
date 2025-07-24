@@ -7,10 +7,10 @@ def run():
     transcriber = Transcriber(model_size="base")
 
     transcriber.transcribe(
-        wav_path=Path("C:/ReposGithub/co-pilot-mind/data/youtube_wav/103 KM DE JATO_ SOROCABA-GUARULHOS  [EMBRAER PHENOM 300E].wav"),
-        scenario="sod_gru",
-        user_id="youtube",
-        session_id="voo_phemon",
+        wav_path=Path("C:/ReposGithub/co-pilot-mind/capture/audio_data/Ramon/paperAcquisition/mic/paperAcquisition_mic.wav"),
+        scenario="paperAcquisition",
+        user_id="ramon",
+        session_id="1",
         channel="mixed",  
         language="pt"     
     )
